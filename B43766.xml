@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royal prerogatve [sic]; or, Subjection to kings and the necessity of passive obedience in the subject. Proved and pressed as an excellent duty to be performed by all good Christians; or any that would be accounted so; contrary to the schismatical and rebellious tenets of some in these times.  Being also a divine and excellent preservative against famine, sword, and pestilence in a sermon / by Allen Rayner minister of the Gospel.</title>
+            <author>Rayner, Allen.</author>
+         </titleStmt>
+         <extent>Approx. 101KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43766</idno><idno type="EEBO-CITATION">489265124</idno>
+  <idno type="VID">208688</idno>
+  <idno type="EEBO-PROQUEST">2240897188</idno>
+  
+            <idno type="OCLC"> 489265124</idno>
+            <idno type="OCLC">ocn 489265124</idno>
+            <idno type="STC">Wing R419B</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43766)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208688)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2956:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royal prerogatve [sic]; or, Subjection to kings and the necessity of passive obedience in the subject. Proved and pressed as an excellent duty to be performed by all good Christians; or any that would be accounted so; contrary to the schismatical and rebellious tenets of some in these times.  Being also a divine and excellent preservative against famine, sword, and pestilence in a sermon / by Allen Rayner minister of the Gospel.</title>
+                  <author>Rayner, Allen.</author>
+               </titleStmt>
+               <extent>[10], 53, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXVI. [1666]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes royal coat of arms on frontispiece, initials.</note>
+                  <note>Imperfect: pages tightly bound with slight loss of print.</note>
+                  <note>Reproduction of original in: New York Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  O.T. --  Psalms CI, 1 --  Sermons --  Early works to 1800.</term>
+               <term type="topical_term">Divine right of kings --  Early works to 1800.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:208688:1"/>
+            <pb facs="tcp:208688:2"/>
+            <p>
+               <figure>
+                  <p>DIEV ET MON DROIT</p>
+               </figure>
+            </p>
+            <p>God save the King, the Royall Progeny, and the Gentry and <hi>Com<g ref="char:EOLhyphen"/>mons</hi> of <hi>England.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:208688:2"/>
+            <p>THE ROYAL PREROGATVE; OR, SUBJECTION TO KINGS: AND THE Necessity of Passive Obedi<g ref="char:EOLhyphen"/>ence in the SUBJECT.</p>
+            <p>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roved and pressed, as an excellent Duty to be performed by all good Christians; or any that would be accounted so; Contrary to the Schismatical and Rebellious Tenets of some in these times.</p>
+            <q>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eing also a Divine and Excellent Preservative against Famine, Sword, and Pestilence,
+<bibl>
+                     <hi>Jer.</hi> 27.8.</bibl>
+               </p>
+            </q>
+            <p>In a Sermon.</p>
+            <p>By <hi>ALLEN RAYNER</hi> Minister of the Gospel.</p>
+            <p>
+               <hi>London,</hi> Printed for the Author, MDCLXVI.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:208688:3"/>
+            <pb facs="tcp:208688:3"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Beloved Christians,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He chief cause of Old Mr. <hi>Reyners</hi> setting forth this Sermon in Defence of Kingly Government, is, because that there are so many enemies to King and Church, the which will not acknowledge our Gracious Kings Majesty hath the same Au<g ref="char:EOLhyphen"/>thority in Causes Ecclesiastical, that the Kings had amongst the <hi>Jews</hi> or <hi>Christian</hi> Emperours in the Primitive Church; al<g ref="char:EOLhyphen"/>though God the Father gave the power of Monarchy to Kings which knew not God, <hi>Isa. 45. Jer. 27.6.</hi> and God the Son con<g ref="char:EOLhyphen"/>firmes it by his own humility, in his own obedience, <hi>Mat. 17.26.27. and 22.21.</hi> and God the Holy Ghost threatneth dam<g ref="char:EOLhyphen"/>nation to all that shall resist them, <hi>Rom. 13.2.</hi> But in all ages there hath been Sons
+<pb facs="tcp:208688:4"/>of <hi>Belial,</hi> that would resist the Almighty himself, <hi>Mal. 3.14.</hi> and so in all ages there hath been Rebels against his Deputies, that he hath set to rule over his people; and al<g ref="char:EOLhyphen"/>though, through their wickedness and dis<g ref="char:EOLhyphen"/>obedience, they have grievously rebelled a<g ref="char:EOLhyphen"/>gainst their heads yet they have all come to ruin: for it is clear, that the Head Gover<g ref="char:EOLhyphen"/>nor of Gods people, in all him is in the stead of God, <hi>Exod. 4.16.</hi> and what is done a<g ref="char:EOLhyphen"/>gainst them, is done against God himself: and the Obedience or Presents which are offered unto King or Church, is as offered to God himself; <hi>Act. 12.5. Phil. 4.3.</hi>
+            </p>
+            <p>And therefore, if ever we expect for to obtain mercy from the Lord, or to have his judgments taken away thereby, either of Sword Famine, or Pestilence; it must be by our prayers and presents, the which must be presented unto them, that they may pray to God for to heal their people; and this hath been the practice of all the Saints (the which they have used) that hath gone to heaven before us, as all these Scriptures can testifie, <hi>Exod. 8.12, 13. Numb. 21.6, 7. Josh. 10.12, 13. Judg. 4.14, 15. and 7.15,
+<pb facs="tcp:208688:4"/>16. 1 Sam. 3.19, 20. 2 Sam. 15.30, 31.</hi> and the Lords anger was kindled a<g ref="char:EOLhyphen"/>gainst <hi>Israel,</hi> not so much for <hi>Davids</hi> sin, but for the peoples running into Rebellion after <hi>Absolom</hi> and <hi>Sheba;</hi> as may be seen, <hi>2 Sam. 20.1, 2.</hi> and so on; and the Plague was stayed when it came to <hi>Judah</hi> and <hi>Je<g ref="char:EOLhyphen"/>rusalem,</hi> because they were Loyal to their King, <hi>2 Sam. 24.16.</hi> And the Lord was so angry with the sin of rebellion, that he would have destroyed all <hi>Israel</hi> in a moment, <hi>Num. 16.45.</hi> had not <hi>Moses</hi> and <hi>Aron</hi> prayed; <hi>for the Divine Sentence is in the lips of a King,</hi> Prov. <hi>10.16. and the Priests lip<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s preserve knowledge,</hi> Mal. <hi>1.7.</hi> And King <hi>David</hi> prayed, <hi>and the Plague was stayed at the prayer of the King, 2</hi> Sam. <hi>24.1, to 25. Numb. 16.47, 48. 2 Chron. 12, to 20. Ezra 6.10, 11. and 7.10. Nehem. 2.4. and 8. Esth. 4.15, 16, 17. Job 42.1, to the end; Psa, 47.3. Prov. 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.11. 1 Sam. 10.26 27. Isa. 1.1, to 30</hi> There is not any place in the Old and New Testament, where the godly people have not offered <hi>supplica<g ref="char:EOLhyphen"/>tions and prayers, and intercessions, and giving of thanks for all men, for Kings
+<pb facs="tcp:208688:5"/>and all men in Authority, 1</hi> Tim. <hi>2.1, 2▪</hi>
+            </p>
+            <p>There be many that are enemies to Kin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Church government, that will take up<g ref="char:EOLhyphen"/>on themselves those places of Scripture, how <hi>Moses</hi> desired <hi>that all the Lords people were Prophets,</hi> Num. <hi>11.29.</hi> but they must understand <hi>Moses</hi> spake there of meek spi<g ref="char:EOLhyphen"/>rited men as himself was, <hi>the meekest man in all the earth,</hi> Numb. <hi>12.3.</hi> For <hi>Eldab</hi> and <hi>Medab,</hi> the spirit of <hi>Moses</hi> rested on them; for their names were written among the seventy men of the Elders of the people, <hi>N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. 11.16.</hi> So the Lord God came down and took of <hi>Moses</hi> meek spirit, and it rested on them, and they Prophesied, and did not cease, <hi>verse 27.</hi> and <hi>Eldab</hi> and <hi>Medab</hi> stayed in the Camp to keep the people in obe<g ref="char:EOLhyphen"/>dience to the Government by <hi>Moses</hi> and <hi>Aaron,</hi> the which there was great need of, for the people were always ready to follow some son of <hi>Belial</hi> in Rebellion; for if they had taught Sedition, as <hi>Nadab</hi> and <hi>Abihu</hi> did, they had been devoured with fire from heaven, as they and <hi>Korah</hi> and all his com<g ref="char:EOLhyphen"/>pany, <hi>Lev. 10.1, 2. Num. 16.35.</hi> but <hi>Eldab</hi> and <hi>Medab</hi> were such meek spirits, as St.
+<pb facs="tcp:208688:5"/>
+               <hi>Peter</hi> and Saint <hi>John,</hi> which taught the people <hi>the fear of God, and to honour the King, and to love the Brother-hood, 1</hi> Pet. <hi>2.17.</hi> the which stayed in the Camp, and converted three thousand souls one day, <hi>Acts 2.40.</hi> and four or five thousand at o<g ref="char:EOLhyphen"/>ther days; the which could not be done at one time, nor at one place; <hi>for they were scattered, and went every where preach<g ref="char:EOLhyphen"/>ing the Word,</hi> Act. <hi>8.4, 5.</hi> and where they saw great multitudes of people together, ac<g ref="char:EOLhyphen"/>cording to the will and mind of our blessed Saviour Jesus Christ, <hi>Mat. 13.2.</hi> they stood up and Preached to the people passive obedi<g ref="char:EOLhyphen"/>ence to Magistrates, <hi>Rom. 13.1. and such meek and quiet spirits, which is in the sight of God of a great price, 1</hi> Pet. <hi>3.4.</hi> and the Prophets and Ministers of God must Preach with the spirit of meekness, before many people, <hi>Jer. 1.7, 8. Rev. 10.11.</hi> And for to confirm by Scripture, that the Lord God hath raised up Kingly Power, <hi>in their seed for ever, upon their Thrones to all Generations,</hi> Psa. <hi>89.3.4.</hi> and Jesus Christ hath left as an example of all means possible not to offend, nor to keep any thing
+<pb facs="tcp:208688:6"/>that the earth, or the sea will yield us, to pre<g ref="char:EOLhyphen"/>sent unto them, <hi>Mat. 22.21. and 17.26, 27. For Christ Jesus will be always with them unto the end of the world, Amen,</hi> Mat. <hi>28.20.</hi> And this is the Doctrine which <hi>Reyner</hi> hath taught the people in all pub<g ref="char:EOLhyphen"/>lique places, and in streets, fields, market<g ref="char:EOLhyphen"/>places, &amp; churches, when admittance might be had, all the time of <hi>Cromwels</hi> govern<g ref="char:EOLhyphen"/>ment; and even the next Sunday after that Fminent Martyr, Reverend Dr. <hi>Hewet</hi> was beheaded; then did old <hi>Rayner</hi> preach a Loyal Sermon in St. <hi>Pauls</hi> Church yard, in the honour of Martyrdom, for Kingly Government; for which he was haled before the Lord Mayor of <hi>London,</hi> by the Marshal and his Men, as soon as he had done, be<g ref="char:EOLhyphen"/>tween one and two of the clock at noon, that Holy day, as many that saw and heard him can testifie; and afterwards in all publique places within threescore miles and above, as he hath many Ministers hands to testifie: And was much encouraged by that Reverend and Pious Divine Dr. <hi>Wild,</hi> which is since a Reverend Bishop in <hi>Ireland;</hi> and by the most Reverend Dr. <hi>Gunning,</hi> who with ma<g ref="char:EOLhyphen"/>ny
+<pb facs="tcp:208688:6"/>more, the which were valiant Champions for his Royal Majesty, and the Church of <hi>England;</hi> And since his Royal Majesties happy return, he continues in the same way of Preaching of Loyalty, although not in the streets, as before, because there is offence taken at it: though there is as much need as ever was in the time of <hi>Nehemiah,</hi> for to <hi>have Pulpits of wood for to stand in to preach, to teach the people to under<g ref="char:EOLhyphen"/>stand the law,</hi> Neh. <hi>8.3, to 9.</hi> And besides, it was his Royal Majesties express command in <hi>Octob. 1660.</hi> that Orthodox Ministers should be sent into all reverend Bishops Dio<g ref="char:EOLhyphen"/>cesses, for to Preach obedience to Monarchy: As also it was the example of all Ancient Kings in all ages, as the Holy Writ, and this Sermon doth testifie; and above all, Christ Jesus, the King of Kings did the like. For if there were sent forth into all Bishops Dio<g ref="char:EOLhyphen"/>cesses but twenty meek spirited ministers, it would do his Royal Majesty much service, and the Church of <hi>England,</hi> in going into full Congregations, with a Licence for to Preach obedience to Kingly Government as ten thousand men in Arms can do. Not that
+<pb facs="tcp:208688:7"/>his Royal Majesty should be without an Army of Horse and Foot, for it is for his Honour, in the de<g ref="char:EOLhyphen"/>fence of him and his Kingdoms, by the example of wise K. <hi>Solomon,</hi> who had forty thousand Horses, and twelve thousand Chariots together, with a bun<g ref="char:EOLhyphen"/>dance of Riches, as <hi>2 Chron. 9. 1 Kings 4.</hi> The which, and the like abundance of blessings, God grant unto our gracious King <hi>Charls</hi> the Second, the Lords Anointed, and his Royal Queen, together with the Illustrious Prince <hi>James,</hi> Duke of <hi>York,</hi> and all the Royal Family, and the Church of <hi>Eng<g ref="char:EOLhyphen"/>land▪</hi> Amen; And all Officers, and Seamen, and Souldiers, under his Royal Majesties Dominions and command▪ and the Duke of <hi>York,</hi> Lord High Admiral of <hi>England,</hi> whom the Lord God defend, and give them the victory over all their enemies, <hi>Amen, Amen.</hi>
+            </p>
+            <p>
+               <hi>Si Deus pro nobis, quis contra nos?</hi> Rom. <hi>8.31.</hi>
+            </p>
+            <p>Although Old Mr. <hi>Reyner</hi> hath almost lost his Sight, his Hearing, and his Teeth, yet the Lord God hath in his great mercy given his Holy Word under his Tongue, for to Preach Judgment against the great sin of Rebellion, <hi>Jer. 1.9. Isa. 1.20. though he be the chief of sinners, 1</hi> Tim. <hi>1.15. and the filth of the world, and the scouring of all things, unto this day, 1</hi> Cor. <hi>4.13.</hi>
+            </p>
+            <closer>
+               <signed>Thine in the Lord <hi>ALLEN REYNER.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:208688:7"/>
+            <head>THE ROYAL PREROGATIVE; OR, Subjection to <hi>KINGS.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. 101.1.</hi>
+                  </bibl>
+                  <p>I will sing of mercy and Judgment: unto thee, O Lord, will I sing.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">H</seg>Oly <hi>David,</hi> the sweet singer of <hi>Is<g ref="char:EOLhyphen"/>rael,</hi> who was a Type of Christ, and his kingdom of Christs king<g ref="char:EOLhyphen"/>dom; for when he had received the promise of the kingdom, not thinking so much of the great honour that was given him of the Lord, as of the grievous burthen that should be laid upon him, he therefore would bind both himself and his posterity (as it were) with a solemn Vow, as be<g ref="char:EOLhyphen"/>fore God, as representing the person of God, in the which the Office of the Deity, in the Offices of a King, is with marvelous brevity explained.</p>
+            <p>For first of all, Then he bindeth the whole
+<pb n="2" facs="tcp:208688:8"/>Office of a King into two principal Vertues, even to <hi>Mercy</hi> and <hi>Judgment:</hi> Whereof the one causeth the King rather to be loved, then fear<g ref="char:EOLhyphen"/>ed; and that other of Judgment, as the holy Scripture declares, is the severity, whereby the obstinate are bridled and kept under the order of Government and obedience to Christ, 2 <hi>Cor.</hi> 10.5. <hi>Who is the King of all Kings, and Lord of all Lords,</hi> Rev. 19.16. <hi>And sitteth high above all the people,</hi> Psal. 99.2. and Psal. 95.3. Holy <hi>David</hi> making a vow that he will give great care to understand that which is the right way, he be<g ref="char:EOLhyphen"/>ing mindful of the words of the Lord, doubled unto <hi>Joshuah, Josh.</hi> 1.7, 8. The Lord God said unto <hi>Joshuah, Only be thou strong and couragious, that thou mayest observe to do according to all the Law, which</hi> Moses <hi>my servant commanded thee: Turn not from it to the right hand, or to the left, that thou mayest prosper whithersoever thou goest: This Book of the Law shall not depart out of thy mouth, but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: For then thou shalt make thy way prosperous, and then thou shalt have good suc<g ref="char:EOLhyphen"/>cess.</hi> So that by this right Government of his own Family, he might come to know how to ex<g ref="char:EOLhyphen"/>ecute the Office of a King, in the great Work of Mercy and Judgment.</p>
+            <p>Holy <hi>David</hi> being anointed King over <hi>Israel</hi> by God, <hi>By whom Kings reign, and Princes de<g ref="char:EOLhyphen"/>cree
+<pb n="3" facs="tcp:208688:8"/>Justice,</hi> Prov. 8.15, 16. and after such a manner of bountifulness, as never was heard of, did consecrate this <hi>Psa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m</hi> of Mercy and Judg<g ref="char:EOLhyphen"/>ment; whereunto he doth bind himself before the Lord, to perform them in the Government of his Kingdome. Where,</p>
+            <p>First, In this Text of holy Scripture, is to be observed these two things, <hi>Mercy</hi> and <hi>Judgment.</hi>
+            </p>
+            <p>First of all then, As he was set over the King<g ref="char:EOLhyphen"/>dom by the Lord God, for to rule and govern for him, 1 <hi>Chron.</hi> 28.4. so his Office was Mercy and Judgement, as in the context, which is from the first <hi>Verse</hi> to the end of the <hi>Psalm;</hi> and his resolution is, how he would behave himself, wisely in a perfect way, with a perfect heart, <hi>v.</hi> 2</p>
+            <p n="2">2. He will set no wicked thing before his eyes, in <hi>verse</hi> 3.</p>
+            <p n="3">3. A froward heart shall depart from him, he will not know a wicked person, <hi>v.</hi> 4.</p>
+            <p n="4">4. Whoso privily stande<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth his neighbour, him he will cut off, and he that hath an high look, and a proud heart, <hi>v.</hi> 5.</p>
+            <p n="5">5. His eyes should be upon the faithfull of the Land, that they may dwell with him, <hi>v.</hi> 6.</p>
+            <p n="6">6. He that worketh deceit, shall not dwell in his house, nor he that telleth lies, <hi>v.</hi> 7.</p>
+            <p n="7">7. He would cut off all wicked doers from the City of the Lord, <hi>v.</hi> 8. for the Lords mercy endureth to all generations, <hi>Psal.</hi> 100.5.</p>
+            <p>Now in this Text we must observe these five circumstances.</p>
+            <pb n="4" facs="tcp:208688:9"/>
+            <p> First, <hi>How God is the Author of mercy, and the executor of Judgement.</hi>
+            </p>
+            <p>Secondly, <hi>That Kings do hold their Kingdoms immediately from God,</hi> and inferiour Magistrates are his Ministers of justice, to divide the same as occasion serveth, <hi>For the punishment of evil doers, and for the praise of them that do well,</hi> 1 Pet. 2.13, 14.</p>
+            <p>Thirdly, <hi>The offender must be punished in the body, That his spirit may be saved in the day of the Lord Jesus Christ,</hi> by judgment, 1 <hi>Cor.</hi> 5.5.</p>
+            <p>Fourthly, <hi>That the godly are exhorted unto pa<g ref="char:EOLhyphen"/>tience, to arm themselves with the same mind as Christ was; for he hath suffered in the flesh, hath ceased from sin,</hi> 1 Pet. 4.1. So, <hi>scil.</hi> He suffered not as an evil doer, <hi>or as a busie-body in other mens matters,</hi> 1 Pet. 4.15.</p>
+            <p>Fifthly and Lastly, <hi>How God hath punished his dearest and best beloved Saints in this world, upon offence given by occasion of sin.</hi>
+            </p>
+            <p>Of these in order beginning with the first.</p>
+            <p>First, <hi>How God is the Author of Mercy, and executor of Judgment.</hi> God is called in the Holy Scripture by the honourable Title <hi>Jehovah,</hi> God above all. The Supremacy of the Deity, passeth mans utterance. Indeed we can better think then speak of God, yet when we consult with our deepest thoughts, we come far short of appre<g ref="char:EOLhyphen"/>hending that incomprehensible Majesty. Out of doubt, whosoever shall go about to search into
+<pb n="5" facs="tcp:208688:9"/>the secrets and essences of the Will of God, <hi>Fear and shame shall be his covering,</hi> Prov. 25.26, 27. To such curious searchers, who to get themselves a name above their Neighbours, will seem to be Gods Counsellors. I commend the advice of the Wise man, <hi>Seek not out things that are too hard for thee, neither search the things rashly, which are too mighty for thee; but what God hath commanded thee, think upon that with fear and reverence, and be not curious in many of his works; for it is not needful for thee to see with thy eyes the things that are secret,</hi> Eccles. 3.22, 23. 2 Pet. 3.16. To such curiosity, may be applyed all that in <hi>Job</hi> 36.26. <hi>Behold God is great, and we know him not, neither can the number of his years be searched out.</hi> For in Counsel he is mighty in works; for thine eyes are upon all the wayes of the sons of men, to give every one according to the fruits of his do<g ref="char:EOLhyphen"/>ings, <hi>Iob</hi> 34.21. <hi>O the depth of the riches both of the wisdome and knowledge of God? How un<g ref="char:EOLhyphen"/>searchable are his judgements, and his wayes past finding out,</hi> Rom. 11.33. Let us use our best di<g ref="char:EOLhyphen"/>ligence, to know what God hath revealed of him<g ref="char:EOLhyphen"/>self in his Word; <hi>For howsoever the secret things belong to the Lord our God, but those things which are revealed belong unto us, and to our Children for ever:</hi> so witnesseth the Word of Truth, <hi>Deut.</hi> 29.29. It is revealed of God the Father, of God the Son, and of God the Holy Ghost, as Saint <hi>Austine</hi> stiles him <hi>(unus natura trinus in personis)</hi> a Trinity in Unity, and Unity in Tri<g ref="char:EOLhyphen"/>nity;
+<pb n="6" facs="tcp:208688:10"/>That he is a God of all Gods, and Lord of Lords, a God most wonderful, very great, mighty, and terrible; a God that cannot be expressed by word, nor conceived by thought; whom all the Angels in heaven do adore and fear; whom all Dominations and Thrones do adore, at whose pre<g ref="char:EOLhyphen"/>sence all Powers do shake. A God in greatness Infinite, in goodness Sovereign, in wisdom Won<g ref="char:EOLhyphen"/>derful, in power Almighty, in counsels terrible, in judgements righteous, in cogitations secret, in works holy, in mercies rich, in promise true, al<g ref="char:EOLhyphen"/>ways the same, eternal, everlasting, immortal, un<g ref="char:EOLhyphen"/>changeable. Thus have ye the Author of Mercy and Judgement.</p>
+            <p>Secondly, Kings do hold their Kingdomes immediately from God, as you shall more here<g ref="char:EOLhyphen"/>after hear: As for example; For whatsoever were written aforetime, were written for our learning, that we through patience and comfort of the Scriptures might have hope, <hi>Rom.</hi> 15.4. When God had drawn out that long and real Map of the World, and all Creatures therein, he made his Son <hi>Adam Luke</hi> 3.28. And God ha<g ref="char:EOLhyphen"/>ving made so great a Prince, like himself, he gave him power for to govern all living Creatures, <hi>Gen.</hi> 2.19, 20. And so from <hi>Adam</hi> successively to <hi>Enoch,</hi> the seventh from <hi>Adam, Gen.</hi> 5.22. <hi>Jude</hi> ver. 14. and from <hi>Enoch</hi> to <hi>Noah,</hi> and with <hi>Noah</hi> did God establish his Covenant, with him and his seed after him, <hi>Gen.</hi> 9.9. and from <hi>Noah</hi> to <hi>Mel<g ref="char:EOLhyphen"/>chizedek</hi> the King of <hi>Salem,</hi> and Priest of the most
+<pb n="7" facs="tcp:208688:10"/>High God, <hi>Gen.</hi> 14.18. <hi>Heb.</hi> 3.1. and from <hi>Mel<g ref="char:EOLhyphen"/>chizedek</hi> to <hi>Abraham,</hi> whom God said Kings of People should he beget, <hi>Gen</hi> 17.6. <hi>Gen.</hi> 17.15, 16. and from <hi>Abraham</hi> to <hi>Isaac</hi> and <hi>Jacob,</hi> and he gave the Scepter to Judah; from him it should not depart, nor the Law-giver from between his feet, untill <hi>Shilo</hi> come; unto him shall the gathering of the people be, to be their King, <hi>Gen.</hi> 49.10, 11. Thus you see that the Lord de<g ref="char:EOLhyphen"/>sires but one King to be supream Head over his People, <hi>Prov.</hi> 28.2. and 1 <hi>Pet.</hi> 2.17. And so from <hi>Judah</hi> to <hi>Joseph,</hi> the which for the disobe<g ref="char:EOLhyphen"/>dience of the Patriarks being moved with envy, sold <hi>Joseph</hi> into <hi>Egypt,</hi> but God was with him, <hi>Acts</hi> 7.9. And God made <hi>Joseph</hi> a Father unto <hi>Pharaoh,</hi> and a Ruler over all the Land of <hi>Egypt</hi> under <hi>Pharaoh;</hi> but <hi>Pharaoh</hi> was supream King, <hi>Gen.</hi> 45.8. And although afterwards the people of God were much afflicted under another King, which knew not <hi>Joseph, Acts</hi> 7.18. yet they did not rebel against him, a though they were 600000 men in number, and able to overcome <hi>Pharaoh</hi> and all his Kingdome; and had <hi>Moses</hi> to be their Prince, but fled before them, from one place to another, according to the mind of God, 1 <hi>Sam.</hi> 24. and <hi>Matt.</hi> 8.20. but God did fight for them, <hi>Exod.</hi> 12.37. And thus may you see God sent <hi>Moses</hi> to acquaint <hi>Pharaoh</hi> with his Name, <hi>I am that I am,</hi> Exod. 3.14. <hi>Moses</hi> having declared in what manner the Lord permitted <hi>Pharaoh</hi> to oppress the Children of <hi>Israel</hi> more
+<pb n="8" facs="tcp:208688:11"/>and more, still hardning his heart; he shews the reason of it in these words: That I may multi<g ref="char:EOLhyphen"/>ply my miracles and wonders in the Land of <hi>Egypt,</hi> that I may lay my hand upon <hi>Pharaoh,</hi> and bring out my people <hi>Israel,</hi> mine Armies, by great judgment, &amp; that my power may be known, and that I may declare my Name throughout all the Earth, <hi>Exod.</hi> 3.9, 10. <hi>Exod.</hi> 9.16. and <hi>Rom.</hi> 9.17. And thus you see how God had chosen <hi>Moses</hi> in his stead, and had given him another spirit, whereby his people might be under one Goveonor, <hi>Exod.</hi> 4.12. <hi>Exod.</hi> 7. as appears after<g ref="char:EOLhyphen"/>wards, when <hi>Moses</hi> sat as King in <hi>Iesurun,</hi> Deut. 33.5. For God called <hi>Moses</hi> unto him out of the midst of the Bush, that himself was in, which burned with fire, and was not consumed, and gave him his Charge of Supremacy, <hi>Exod.</hi> 3.2, 3, 4, 5, 6, 7. and so on. And after the Lord had governed his people by Judges three hundred years &amp; upwards, when they came unto the Land which the Lord God had gave them, then he com<g ref="char:EOLhyphen"/>manded them in any wise to set a King over them, <hi>Whom the Lord thy God shall chuse from among thy brethren,</hi> Deut. 17.15. And after the people had chosen <hi>Saul</hi> for to be their King, the Lord called <hi>Samuel</hi> to anoint him Captain or Prince over his Inheritance, as he calls it in 1 <hi>Sam.</hi> 10.1. And because he rejected the Word of the Lord, the Lord rejected him from being King, 1 <hi>Sam.</hi> 15.23. and after found out a man after his own heart, to whom the Lord gave great prosperity
+<pb n="9" facs="tcp:208688:11"/>unto his Anointed, and his Seed for evermore, <hi>Psal.</hi> 18.51. And after the Lord had governed his people by Kings three or four hundred years, in delivering them from one generation to ano<g ref="char:EOLhyphen"/>ther, that is the greatest we read of, in <hi>Jehoshaphats</hi> the King of <hi>Judah,</hi> when that multitude of <hi>Ammo<g ref="char:EOLhyphen"/>nites</hi> and <hi>Meabites</hi> came to war against him and the Children of <hi>Israel,</hi> intending to cast them out of the Lords Inheritance (as the enemies to Mo<g ref="char:EOLhyphen"/>narchy did to our Gracious King here in <hi>England</hi>) and utterly to destroy them, to the dishonour of the Lord God; then the Lord by delivering them from that sore affliction, gained to himself such honour and glory, that the fear of the Lord God was upon all the Kingdoms of the Earth.</p>
+            <p>When the Lord had fought against the enemies of the King and his people the Children of <hi>Israel,</hi> as in 2 <hi>Chron.</hi> 20.29. the judgement was upon some, but the fear came upon all the Kingdoms of the earth (saith the Text.) It was but a few mens losses, but it was all mens warning: and yet they were three days gathering the spoil, as you may see in the following verses, 2 <hi>Chron.</hi> 20.25, 30. Now all these things hapned unto them for exam<g ref="char:EOLhyphen"/>ples to us, <hi>and they are written for our admonition, upon whom the ends of the world are come,</hi> 1 Cor. 10.10, 11, 12. And afterwards, when the Lord brought back again his people out of Captivi<g ref="char:EOLhyphen"/>ty, by the hand of <hi>Zerubbabel</hi> their Prince; when the Church had been among the Heathen, the Lord had done great things for them, <hi>Psal.</hi>
+               <pb n="10" facs="tcp:208688:12"/>126.12. So our gracious King and the Church of <hi>England</hi> may say, when he came back again from his long affliction, and now setled in his Royal Throne, and the Church in their Ancient Order: We may all say, that the Lord hath done great things for us all; for our gracious Kings life from the 10th. year to the 30th. year of his age, hath been a weary Pilgrimage, a Sojourners condition, from one Kingdom to another People, <hi>Psal.</hi> 105.13. For the Battel he was in at <hi>Wor<g ref="char:EOLhyphen"/>cester,</hi> his Adversaries had the day for a time, but not the Victory; the Place, but not the Person. Gods mercy and our Kings escape, are as Twins of wonder; which makes good the Text, of Mer<g ref="char:EOLhyphen"/>cy and Judgment to be joyned together. For God hath, as you hear, in all Ages, provided mighty Adversaries against his King and Church, that their humiliation may be the greater in sustain<g ref="char:EOLhyphen"/>ing, and his glory may be the greater in his deli<g ref="char:EOLhyphen"/>verance; yea, though there be legions of Devils, and every one stronger then many legions, and they more millions then strong, yet our gracious King and Church doth prosper, which makes ex<g ref="char:EOLhyphen"/>ceedingly for Gods Mercy as well as Judgment.</p>
+            <p>Now there be many that would fain wring out of the Kings hand the Sword of Justice; and others are of an error, that they are always as the Jews, <hi>Obstinate, stiff-necked, always resisting the holy Ghost,</hi> Acts 7.51. The one is against Piety, and the other against Policy; but their error against Policy is most politickly devised by the enemies
+<pb n="11" facs="tcp:208688:12"/>to Monarchy, there being but these two that any need to fear, Piety and Policy. And if they could keep themselves out of the reach of the Civil Sword, then they might every where se<g ref="char:EOLhyphen"/>curely both vent their errors, and practise their schism: For an Heretick doth corrupt the since<g ref="char:EOLhyphen"/>rity of faith and doctrine of the holy Apostles, by d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>awing men back from faith, <hi>Heb.</hi> 10.38. And a Schismatick, although he sin not against the pure Doctrine of the sincere faith, yet he rashly sepa<g ref="char:EOLhyphen"/>rateth himself from the Church, he breaking the bands of unity, as the Angels did, that were cast into hell fire, for not being obedient to the order, 2 <hi>Pet.</hi> 2.4. And <hi>Korah</hi> and his Company, <hi>Num.</hi> 16. for not being obedient to <hi>Moses</hi> and <hi>Aaron,</hi> the ground clave asunder, and devoured them all. For Schisme is Rebellion, and Rebellion is as the sin of Witchcraft; <hi>And stubbornness is as iniquity and idolatry,</hi> 1 Sam. 15.23. <hi>O stand fast in one spirit, with one mind, striving together for the faith of the Gospel: And in nothing terrified by your adver<g ref="char:EOLhyphen"/>saries, which is to them an evident token of perdition, but to you of salvation, and that of God. For unto you it is given in the behalf of Christ, not only to be<g ref="char:EOLhyphen"/>lieve on him, but to suffer for his sake,</hi> Phil. 1.27, 28, 29. Now the reason why Hereticks and con<g ref="char:EOLhyphen"/>tentious people do so vehemently contend, that Kingly Power can in no ways consist with Chri<g ref="char:EOLhyphen"/>stian perfection of Christianity; although that Power is an Ordinance of God, which the Ho<g ref="char:EOLhyphen"/>ly Ghost commands not to resist, upon the pain
+<pb n="12" facs="tcp:208688:13"/>of damnation, <hi>Rom.</hi> 13.2. And Gods command should be a sufficient argument; but when he adds a reason too, he answers all objections: but when he threatens punishments, no less then dam<g ref="char:EOLhyphen"/>nation, upon the resistance thereof, he used all means to perswade a necessity of obedience; For let every soul be subject to their King, in things lawful actively, in things unlawful passively. If a good King, a good Power; if an evil King, an evil Power: Therefore he that resists the Power, whether good or evil (for all Power is of God) he resisteth an Ordinance of God; and Ordinances of men are not resisted without ruine; and who<g ref="char:EOLhyphen"/>soever resisteth the Ordinance of God, shall re<g ref="char:EOLhyphen"/>ceive damnation to themselves. Now compare this place with 1 <hi>Cor.</hi> 11.29. <hi>He that shall eat this Bread, and drink this Cup of the Lord unworthily, eateth and drinketh his own damnation.</hi> If then there be a proportion betwixt the sin and the punish<g ref="char:EOLhyphen"/>ment, you may hereby gather the hainousness of disobedience, the punishment whereof is the very same; which, in that he is guilty of the body and blood of Jesus Christ; to the one, for not discerning the Lords Body; and to the other, for not discerning the Lords Anointed. For Kings in all Ages, and in all Generations over Gods people, are and have been Gods Anointed, 1 <hi>Sam.</hi> 1.10. 1 <hi>Sam.</hi> 26.9. <hi>Isa.</hi> 45.4, 5. 2 <hi>Kings</hi> 10.31, 32. And as God hath Monarchy in Heaven, so will he have Monarchy on Earth; and to that end did he anoint <hi>Cyrus</hi> King of <hi>Persia,</hi> over all the kingdoms
+<pb n="13" facs="tcp:208688:13"/>of the earth, 2 <hi>Chron.</hi> 36.23. For the holy Apo<g ref="char:EOLhyphen"/>stle shews a reason in <hi>Rom.</hi> 13.4. <hi>For the Magi<g ref="char:EOLhyphen"/>strate beareth not the Sword in vain, for he is the Minister of God, a Revenger to execute wrath upon him that doth evil:</hi> For the Sword is given the Magistrate to root out heresie and vice; for if Magistracy do not root out heresie and vice, con<g ref="char:EOLhyphen"/>tentions and heresies, vice will root out Magistra<g ref="char:EOLhyphen"/>cy: But before I cut off this heresie against the material sword, <hi>with the sword of the Spirit, which is the Word of God,</hi> Ephes. 6.17. I shall present unto the enemies of Monarchy a glass, wherein they may see their own faces drawn to the life, and that in Saint <hi>Peter</hi> and Saint <hi>Iude,</hi> who were both holy Apostles of Christs, and both lived and preached up Kingly Power, and both suffered Martyrdom under Monarchy; and both preached against false Prophets and despisers of Monar<g ref="char:EOLhyphen"/>chy, that all men may plainly see who were the Grand-fathers of these Hereticks, that trouble both King and Church at this day. <hi>They walkt</hi> (saith Saint <hi>Peter</hi>) <hi>after the flesh, in the lust of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncleanness, and despise government; and presumptu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us are they, self-willed: yea, they are not afraid to speak evil of dignities; whereas Angels, which are <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reater in power, and might, they dare not bring any <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aising accusation against them before the Lord. But <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hese, as natural brute beasts, made to be taken and lestroyed by judgement, for speaking evil of things <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey understand not, and they shall utterly perish in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir own corruption,</hi> 2 Pet. 2.10, 11, 12. and
+<pb n="14" facs="tcp:208688:14"/>
+               <hi>Jude</hi> 8.9. to the 14. <hi>Enoch</hi> the seventh from <hi>Ada<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> prophesied of these, saying, <hi>Behold, the Lord come<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with ten thousands of his Saints, to execute judge<g ref="char:EOLhyphen"/>ment upon them all,</hi> verse 14.15. Now belove<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Christians, I beseech you to take special notice<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> these words of these two great Apostles, whi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fall out so pat upon the Hereticks of our times, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if the Apostles had particularly aimed at the er<g ref="char:EOLhyphen"/>rors that should come in these our days; as Sai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Paul</hi> prophesied of, <hi>That in the last days perillo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> times shall come; for men shall be lovers of the own selves, covetous, boasters, proud, blasphemous, dis<g ref="char:EOLhyphen"/>obedient to Parents, unthankful, unholy, without natur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> affection, truce-breakers in forswearing themselv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and false accusers, incontinent, fierce despisers <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> those that are good, traitors, heady, high-minde<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lovers of pleasare, more then lovers of God, hav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a form of godliness, but denying the power thereo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from such turn away. Ever learning, and never a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to come to the knowledge of the truth. As</hi> Jann<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>and</hi> Jambres <hi>withstood</hi> Moses, <hi>so do these resist t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> truth,</hi> 2 Tim. 3.1, 2, 3, 4, 5, 7, 8. in their re<g ref="char:EOLhyphen"/>sisting King and Church. For the Office <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a King, or any Magistrate sent by him, is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Office appointed by God for the administrati<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of justice, and executing judgment, and preserv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion of peace both in Church and Kingdom, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> these Scriptures testifie, <hi>Rom.</hi> 13.3, 4.5. 1 <hi>Pet.</hi> 13.14. <hi>Exod.</hi> 18.20, 21. <hi>Prov.</hi> 16.10. And as t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord God spake unto <hi>Moses, And thou shalt te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this people Ordinances and Laws,</hi> Exod. 18.20. <hi>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:208688:14"/>shalt shew them the way wherein they must walk, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e work that they must do.</hi> God commands <hi>Moses</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r to provide out of all the people able men, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch as fear God, and hating covetousness; and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> place none but such over the Land to be Ru<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers of thousands, and Rulers of hundreds, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ulers of fifties, and Rulers of tens, and let <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>em judge the people at all seasons; but every <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reater matter they should bring to <hi>Moses,</hi> be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ause he was supream Judge, and was as King in <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esurun,</hi> Deut. 35.3. And this Counsell of <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ethro</hi> the Priest of <hi>Midian, Moses</hi> Father-in-law, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as greatly approved of God, <hi>Num.</hi> 11.16, 17. <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd the Lord God said unto</hi> Moses, <hi>gather unto me <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>venty men of the Elders of Israel, whom thou know<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t to be Elders of the people, and Officers over them; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d bring them to the Tabernacle of the Congregati<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, that they may stand there with thee; and I will <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me down and talk with thee there; and I will take <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the spirit that is upon thee, and will put it upon them, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d they shall bear it, not thy self alone.</hi> And the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reatest matters were to be brought to <hi>Moses,</hi> as <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou heard before in <hi>Exod.</hi> 18.20, 21. <hi>Deut.</hi> 33.5. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the voice of Wisdom cryes aloud, <hi>By me <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ings reign and Princes decree justice; by me Prin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s rule, and Nobles, even all the Judges of the Earth,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rov. 8.15, 16. <hi>For to execute justice upon him that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth evil,</hi> Rom. 13.4. <hi>And for the praise of them <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at do well,</hi> 1 Pet. 2.14. So you may see by all <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ese Testimonies of holy Scriptures, that the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssice of a King may be with a good conscience
+<pb n="16" facs="tcp:208688:15"/>executed by a Christian; for there is as mu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> necessity of the Office of a King or Judge u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>der the Gospel, as under the Law. For t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Scriptures out of the New Testament confir<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it, that the twelve Apostles called the multitud<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Disciples, and sought out men of honest re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> port, and full of the Holy Ghost and wisdom, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> serve and govern the people; and the greate<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> matters were to be brought to the twelve Apo<g ref="char:EOLhyphen"/>stles, that stayed still at <hi>Ierusalem, Acts</hi> 6.1, 2, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and in <hi>Acts</hi> 8.1. And Saint <hi>Iames</hi> was Bisho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>when</hi> Herod <hi>the King stretched forth his hand to v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> certain of the Church, and he killed Saint</hi> James <hi>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Brother of Saint</hi> John <hi>with the sword,</hi> Acts 12.1, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> And he sought for Saint <hi>Peter</hi> for to slay hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> also, but Saint <hi>Peter</hi> got out of his hands; the the faithful were fain oft-times for to assemb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> themselves into the Fields for to pray &amp; prea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unto the people, <hi>Acts</hi> 16.13. And <hi>Tertullian</hi> i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Apology, <hi>Chap.</hi> 39. affirmeth, That in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> assembling the Christians together in those day<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was to pray for their Emperours, and Kings, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Magistrates, and their Officers, and Servant<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and for all Estates of the world, and to pray fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their peace, and to preach out of the Divin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Scriptures; and they did feed and nourish th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Faith with their voice, and the Holy Word o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God, and did travel here and there much t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preach the Word, <hi>Acts</hi> 8.4, 5. and to imprint in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the hearts of the people the discipline of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Church, the Creed, and Lords Prayer, and Te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="17" facs="tcp:208688:15"/>Commandments: And <hi>Tertullian</hi> saith, <hi>We <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hristians have our eyes elevated unto Heaven, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd our hands stretched out, because of their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nocence; and the head uncovered, because we <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>are not hear the Word, but with fear and reverence,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ccles. 5.1.</p>
+            <p>And we are not ashamed, and we do pray al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ays with all our hearts for Emperors, Kings and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rinces, that God would give them long life, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd an assured Empire, and a trusty and sure <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouse, mighty in Battel, a faithful Council, a good <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd loyal people, a quiet World, and all that Man <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the Emperour can desire: And all this and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch more did the Christians in the Primitive <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me, both fight for them in battel, and pray to the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>teat God of Heaven and Earth, for the Empe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ours and the Kings of the Earth, as in <hi>Mat.</hi> 17.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6.17. 1 <hi>Tim.</hi> 2.1, 2, 3. <hi>Tit.</hi> 3.12. <hi>Dan.</hi> 9. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om 3. to 22. <hi>Ezra</hi> 8.10.11. and yet were <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey killed for their doctrine and discipline. And <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Apostle tells them that despise Governours, <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat they are enemies of the Cross of Christ, whose <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od is their belly, and whose glory is their shame, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at mind earthly things, and will not have their con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ersation in Heaven, from whence we look for the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord Iesus Christ,</hi> Phil 3.18, 19, 20. <hi>Who is the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pream King of Kings, and Lord of Lords, and sit<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th above all people,</hi> Psal. 99.2. <hi>Rev.</hi> 19.16. And <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was the Prayer the Lord Jesus Christ taught <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Disciples, that as it is in Heaven, it should be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Earth, <hi>Luke</hi> 11.2, 3. That as he was and is
+<pb n="18" facs="tcp:208688:16"/>Monarch in Heaven, so would he have a Monar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in Earth; or else Christ Jesus would not have se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his greatest Apostle Saint <hi>Simon Peter</hi> to the S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for to cast an hook, and take up the Fish that fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cometh up, and find money in his mouth to gi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unto Kings, because he would not give them a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> occasion of offence, <hi>Matt.</hi> 17.26.27. And th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is to shew that honour, dignity, and power is m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> holy and just; and holy and religious men ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in all Ages been invested with honour, dignit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and power of Majesty as well as others: Nam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ly, <hi>Melchisedec</hi> was both King of <hi>Salem, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Priest of the most High God,</hi> Heb. 7.1.2, 3. lest a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> should argue and say, he had his Kingdom fro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men, and is said to have his Kingdom from <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eternity, <hi>verse</hi> 22. And <hi>Joseph</hi> was a Father un<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Pharaoh, and Ruler over all the Land of</hi> Egyp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Gen.</hi> 41.43. <hi>For to teach his Princes wisdom, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his Senators understanding,</hi> Psal. 105.22. And <hi>J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> was a King in the Land of <hi>Uz, Job</hi> 1. till th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had stript him of his glory, and taken his Cro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from his head, <hi>Job</hi> 19.9. For there was Kings <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Edom,</hi> before any Kings in <hi>Judah</hi> or <hi>Israel</hi> ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> years, <hi>Gen.</hi> 36.31. And then <hi>Moses</hi> and <hi>Ioshu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>David</hi> and <hi>Solomon,</hi> and <hi>Hezekiah,</hi> and <hi>Iehos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> phat</hi> and <hi>Iosiah,</hi> after whom the Holy Ghost se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this testimony, <hi>Like unto them were no Kings bef<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them, that turned to the Lord with all their heart a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all their soul, according to all the Law of Moses; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> after them arose any the like unto them,</hi> the like f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to do mercy and justice, 2 <hi>Kings</hi> 23.25. To ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="19" facs="tcp:208688:16"/>mercy on the poor, and judgment on the wicked. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd again, it was foretold and promised for a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gular blessing to the Christian Church in these <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ys, and cannot be repugnant to the rules of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ospel; For the Government and Protection of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ings, and their supporting and maintaining the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ospel, was foretold and promised as a singular <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>essing to the Christian Churches in these days, <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sal.</hi> 68.29. <hi>Kings shall bring presents unto thee;</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Psal.</hi> 72.9, 10, 11. <hi>They that dwell in the Wil<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rness shall bow before thee, and his enemies shall lick <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e dust, and the Kings of</hi> Tarshish, <hi>and of the Isles, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all bring presents,</hi> Psal. 72.9, 10, 11. <hi>And Kings <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all be their Nursing Fathers, and their Queens <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eir Nursing Mothers,</hi> Isa. 49.23. <hi>For to have <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ercy on the poor, that their Throne may be establish<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for ever,</hi> Prov. 29.14. <hi>with mercy and judgment.</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r God hath required of a good Magistrate ten <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>incipal Vertues:
+<list>
+                  <item>First, To be a Father of his People,</item>
+                  <item>Secondly, Skilful in the Scriptures,</item>
+                  <item>Thirdly, A Divider of Offices.</item>
+                  <item>Fourthly, And Encourager of the Fearful.</item>
+                  <item>Fifthly, A Defender of the Oppressed.</item>
+                  <item>Sixthly, An Helper of the Needy.</item>
+                  <item>Seventhly, A Despiser of the Proud.</item>
+                  <item>Eighthly, A Governour of his People.</item>
+                  <item>Ninthly, An Exalter of the Humble.</item>
+               </list>
+            </p>
+            <p>Tenthly, A Punisher of the Offenders with <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gment, <hi>that their spirit may be saved in the day <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Lord Iesus Christ,</hi> 1 Cor. 5.5. As holy <hi>Iob</hi>
+               <pb n="20" facs="tcp:208688:17"/>saith, <hi>The Magistrate is Eyes to the Blind, Feet to the Lame, Father to the Poor, and Watchman to his whole Commonwealth,</hi> Job 29.15. and a blessing to all his people. <hi>For in</hi> Judah <hi>the hand of God was to give the people one heart, to do the Kings Com<g ref="char:EOLhyphen"/>mandment, and the Commandment of the Princes, by the Word of the Lord,</hi> 2 Chron. 30.12. For the which the King prayed for his people when they were afflicted by judgment, and said, <hi>The Lord pardon every one,</hi> 2 Sam. 24.25. and the Lords mercy healed the people at the prayer of the King, 2 <hi>Chron.</hi> 30.18, 19, 20. And Scriptures teacheth, <hi>That a Divine Sentence is in the mouth of the King, and his lips shall not transgress in judgment,</hi> Prov. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6.19. Therefore it is that no godly per<g ref="char:EOLhyphen"/>son dares say to Kings, <hi>You are wicked; nor to un<g ref="char:EOLhyphen"/>godly Princes, you are ungodly,</hi> Job 34.18. For al<g ref="char:EOLhyphen"/>though the Lord suffered his Anointed (King <hi>Charles</hi> of Blessed Memory) to fall by judgment under the hands of his Enemies; yet the Lords mercy hath saved his Son to sit on the Royal Throne of his Royal Father, as he did holy King <hi>David,</hi> his Anointed, <hi>from the hurtful and crue<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> sword,</hi> Psal. 144.10. For although God himself be the King of Kings, yet is <hi>Nebuchadnezzar</hi> by the Spirit of God stiled a King of Kings; so the God of Heaven had given him a Kingdome, power, and strength, and glory, <hi>Dan.</hi> 2.37. And the Lord God saith, <hi>They that serve not th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King, and they that will not put their Necks under his Yoke, them I will penish with the Sword, Fa<g ref="char:EOLhyphen"/>mine,
+<pb n="21" facs="tcp:208688:17"/>and the Pestilence, till I have consumed them; and therefore hearken not to your Diviners, and Prophets, that say unto you, you shall not serve the King; for they prophesie a lye unto you: But that Nation that shall serve the King, and bring their Necks under his Yoke, those will I let remain in their own Land, saith the Lord God, and they shall till it, and dwell therein,</hi> Jer. 27.6, 7, 8, 9, 10. Can there be a stricter Precept? or could there be a more impious Prince? and yet this Pre<g ref="char:EOLhyphen"/>cept, and yet this Prince must be obeyed; nay, <hi>sub poena,</hi> too, upon the pain of Gods high wrath, fully exprest in three great judgments, in Fa<g ref="char:EOLhyphen"/>mine, Sword, and Pestilence; not only upon the People, but upon the Priests also, that shall per<g ref="char:EOLhyphen"/>swade them unto disobedience: For the Lord God hath such a love unto Monarchy, that as he anointed <hi>Cyrus</hi> over all the Kingdomes of the Earth; yet it pleased his Divine Majesty, yet for to divide the Kingdoms of the Earth since, into several Men and Nations, <hi>Deut.</hi> 2.5. <hi>Deut.</hi> 32.8. For the Lord said unto <hi>Elijah, Go anoint</hi> Hazael <hi>to be King over</hi> Syria, <hi>and</hi> Jehu <hi>the Son of</hi> Nimshi <hi>shalt thou anoint to be King over</hi> Israel, 1 <hi>Kings</hi> 19.15, 16. So then, our Gracious King, and Gods Deputy, having more Kingdoms under him then one, two, or three, may substitute un<g ref="char:EOLhyphen"/>der himself Viceroys, Dukes, Nobles, and Judges, as helpers to bear the burden of Go<g ref="char:EOLhyphen"/>vernment under him; and as well Right Reve<g ref="char:EOLhyphen"/>rend Arch Bishops, and Reverend Bishops for
+<pb n="22" facs="tcp:208688:18"/>Sacred matters, according to the example of <hi>Moses, Joshuah, David, Solomon,</hi> and <hi>Jehosaphat,</hi> who set Judges in the I and; throughout all the fen<g ref="char:EOLhyphen"/>ced Cities of <hi>Judah,</hi> City by City, and said to the Judges, <hi>Take heed what ye do; for ye judge not for men, but for the Lord, who is with you in the judgment: Wherefore now let the fear of the Lord be upon you, take heed, and do it; for there is no iniquity with the Lord our God, nor respect of persons, nor taking of gifts: Moreover did</hi> Jehosaphat <hi>set of the Levites, and of the Priests, and of the chief of the Fathers of</hi> Israel <hi>for judgement of the Lord, and for to end con<g ref="char:EOLhyphen"/>troversies, when they returned to</hi> Jerusalem, 2 <hi>Chron.</hi> 19.5, 6, 7, 8. And hearken unto <hi>Jehosaphats</hi> en<g ref="char:EOLhyphen"/>couragement, 2 <hi>Chron.</hi> 19.9, 10, 11. Deal cou<g ref="char:EOLhyphen"/>ragiously, and the Lord God shall be with the good. And hearken unto Gods encouragement, <hi>Chap.</hi> 20. And in <hi>Joshua, If thou obey, to do accord<g ref="char:EOLhyphen"/>ing to the Law which</hi> Moses <hi>my servant command<g ref="char:EOLhyphen"/>ed, then thou shalt have good success,</hi> Josh. 1.7, 8. And hearken unto Christs commandment, unto all his Kings, <hi>Teaching them to observe all things what<g ref="char:EOLhyphen"/>soever I have commanded you; and lo, I am with you alway, even unto the worlds end, Amen,</hi> Matt. 28.20. For it is the Lord God that made Kings and Priests for to reign on the earth, for God the Fa<g ref="char:EOLhyphen"/>ther, and his Son Jesus Christ, <hi>To him be glory and dominion for ever and ever, Amen,</hi> Rev. 1.5, 7. For the Lord made a Covenant with his chosen, and had sworn unto his seed unto <hi>David</hi> his Ser<g ref="char:EOLhyphen"/>vant, <hi>Thy seed will I establish for ever, and build up
+<pb n="23" facs="tcp:208688:18"/>his Throne to all generations,</hi> Psal. 89.3, 4. Thus have I shewed you how the Lord is the Author of Mercy and Judgment.</p>
+            <p>Secondly, Kings are to divide it as occasion serveth, for the punishment of evil doers, and for the praise of them that do well; and the ne<g ref="char:EOLhyphen"/>cessity of our obedience unto Kingly govern<g ref="char:EOLhyphen"/>ment to be from the Lord.</p>
+            <p>Thirdly, The godly are to arm themselves to be like minded as Christ was; <hi>For he that hath suffered in the flesh, hath ceased from sin,</hi> 1 Pet. 4.1. But many will rather have the mind of Satan, and be an offence unto Christ Jesus, <hi>and savour the things of men, and not those things that be of God, Matt.</hi> 16.23. and will not take the pains to think of Gods judgments; they have a shorter way for all, a way which seems to them more pleasing, and so lay the whole matter upon the back of Christ himself; as the <hi>Jews</hi> did concerning <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> saying, <hi>That they were</hi> Abraham<hi>'s Children, and had but one Father, even God;</hi> and they never did the works of <hi>Abraham,</hi> nor do these people obey Jesus Christ; and therefore saith Jesus Christ the Lord, <hi>They have no cloak for their sin,</hi> John 15.22. But answer whatsoever you can say against them, they will answer you with this holy sentence, <hi>God is merciful.</hi> Of these men may Christ complain with the Prophet, saying, Sinners have built upon my back, they have prolonged their iniquity, <hi>Psal.</hi> 129.3. By which words we may account our selves charged, that prolonging
+<pb n="24" facs="tcp:208688:19"/>of iniquity, in hope of Gods mercy without judgement, is to build all our sins on his back: But will God bear it? no verily will he not; for in <hi>vers.</hi> 4. is justice; for there it is said God is just, he will cut in sunder the neck of sinners. Now here are two Cooling Cards for the two warm imaginations before; for why should man prolong his iniquity, because God is merciful: Let them know saith the Prophet, <hi>that he is just.</hi> Are ye gotten upon the back of God, to make your Nest of sin? then take heed, for he will fetch you down again, and break sinners necks downward, <hi>Psal.</hi> 129.5. except they repent, <hi>Luke</hi> 13.3. and 5. <hi>Shall we continue in sin, that grace may aboand? God forbid,</hi> Rom. 6.1. Indeed there is no one thing which may be so injurious to God, so as to make him the foundation of our sinful transgressing this Commandment, in not obeying Christ, who lost his own life for the ex<g ref="char:EOLhyphen"/>tinguishing of the Sin of Rebellion, 1 <hi>Sam.</hi> 15.20, 21, 22. 2 <hi>Pet.</hi> 4.1. I pray was not Christ the great Reformer, when his weapon is a Trumpet to lift up his voice, <hi>Isa.</hi> 58.1. and his way to Reformation, were they not his own words, <hi>He that taketh up the sword, shall perish by the sword,</hi> Matth. 26.52. Nor was it for want of strength; for he could command more then twelve Legions of Angels, in <hi>v.</hi> 53. or had he pleased to use the arm of flesh, I hope he that raised the dead, <hi>John</hi> 11.44. if he had pleased, <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ld have raised a considerable Army: When
+<pb n="25" facs="tcp:208688:19"/>he caused his best Apostle Saint <hi>Peter</hi> for to catch a Fish to bring money in his mouth, for to pay to Kings, because he would not offend them, <hi>Matt.</hi> 17, 26, 27. and Saint <hi>John</hi> and Saint <hi>Peter,</hi> who converted three thousand in one day, and four or five in another day, <hi>Acts</hi> 2.40. <hi>Acts</hi> 4.5, 6. he might have raised a mighty Army in a little time: And Saint <hi>Paul,</hi> and the twelve Apostles and Disciples, might have proved as stout Collonels and Captains to lead them, as any in <hi>England;</hi> but they all know that there was such a necessity of passive obedience, for the godly to arm them<g ref="char:EOLhyphen"/>selves to be like minded as was Christ, to suffer in the flesh, that they may cease from sin, 1 <hi>Pet.</hi> 4.1. and Christ left himself to be such a pat<g ref="char:EOLhyphen"/>tern of obedience, <hi>that we must follow his steps,</hi> 1 Pet. 2.21. But as our blessed Saviour Christ saith, if he had not spoken unto them for to be obedient unto Magistrates, it might have been born withall; <hi>But now they have no cloak for their sins,</hi> John 15.22. The holy Pro<g ref="char:EOLhyphen"/>phet <hi>Daniel</hi> faith, <hi>The M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st High ruleth in the Kingdoms, and giveth them to whomsoever he will,</hi> Dan. 4.25. to 32. And Saint <hi>Austine</hi> is bold to say, <hi>That the same God, who set the Crown upon</hi> Constantine (the Christians head Em<g ref="char:EOLhyphen"/>perour) <hi>the same God gave the Empire of the world unto</hi> Julian <hi>the Apostate; because he would have his Saints to suffer in the flesh, that they might cease from sin:</hi> And Christ himself paid tribute to <hi>Caesar,</hi> and acknowledged earthly
+<pb n="26" facs="tcp:208688:20"/>things to be <hi>Caesars,</hi> Mat. 22.21. And that <hi>Caesar</hi> he spake of was <hi>Tyberius,</hi> an enemy to all godli<g ref="char:EOLhyphen"/>ness, and a kind of monster among men; yea, the Lord God anointed <hi>Cyrus</hi> to subdue Nations before him, for <hi>Jacob</hi> his Servants sake, and <hi>Israel</hi> his Elect, and called him by Name, <hi>and yet he hath not known me,</hi> Isa. 45.12. because he would have <hi>Jacob</hi> suffer in the flesh, and <hi>Israel</hi> to cease from sin; and therefore he commanded his Preachers for to cry aloud, and spare not, to lift up their voice like a Trumpet, <hi>and shew the people their transgressions, and the house of</hi> Jacob <hi>their sins,</hi> Isa. 58.1. But you will say, And is not God merciful? that we must suffer under cruel Kings; yea, beloved Christians, he is most merciful, and there is neither end nor measure of his mercy; he is even mercy it self, it is his Nature and Es<g ref="char:EOLhyphen"/>sense, and he can no more leave to be merciful, then he can leave to be God; but as the Pro<g ref="char:EOLhyphen"/>phet here saith in the Text, he is judgement also; we must not so remember his mercy, as to forget his justice: For example, <hi>Nebuchadnezzar</hi> the King of <hi>Babylon,</hi> set up a golden Image, <hi>Shadrech, Meshach,</hi> and <hi>Abednego,</hi> were commanded to fall down and worship it. The King, a known Pagan, commands a gross Idolatry; did these men con<g ref="char:EOLhyphen"/>spire? no, by no means, they did not, although they were Rulers of the Provinces, and could have raised above a hundred thousand Souldi<g ref="char:EOLhyphen"/>ers if they had pleased, neither did they invite the Jews into a rebellion; no, being called by
+<pb n="27" facs="tcp:208688:20"/>their King they came, and being commanded to give actual obedience to his unlawful commands, I beseech you observe the modesty of their first answer, <hi>Dan.</hi> 3.16. <hi>We are not careful to answer thee in this matter;</hi> and being urged, mark their pious resolution in the 18 verse; <hi>Be it known, O King, we will not serve thy god, nor worship the golden image thou hast set up:</hi> The King threatens the Furnace, they yield their bodies up to it, and say, <hi>Our God, whom we serve, will in mercy deliver us from out of thy hands of judgment:</hi> They expect deliverance rather in the r passive obedience, then in their actual resistance; <hi>For the Lord is upright and sweet,</hi> saith holy <hi>David,</hi> Psal. 25. <hi>All the ways of the Lord are mercy and truth,</hi> verse 9. which words holy Saint <hi>Bernard</hi> expounding in a Sermon of his, saith, <hi>There be two feet of the Lords, when he walketh in his ways;</hi> that is, Mercy and Justice, and God fasteneth both these feet upon the hearts of them which turn unto him; and every sinner which truly is converted to him, must lay hands on both these feet; for if he should lay hands on Mercy, and let pass Judge<g ref="char:EOLhyphen"/>ment, he would perish by presumption: and on the other side, if he should apprehend Justice only without Mercy, he would perish by despe<g ref="char:EOLhyphen"/>ration. To the end therefore that we may be sa<g ref="char:EOLhyphen"/>ved, we must humbly fall down and kiss both these feet, as <hi>Mary Magdalen</hi> did the feet of Jesus, <hi>Luke</hi> 13.8. so that in respect of Gods Ju<g ref="char:EOLhyphen"/>stice we may retain fear, and in respect of his
+<pb n="28" facs="tcp:208688:21"/>Mercy we may receive hope; and happy is that soul upon whom our Lord Jesus Christ hath pla<g ref="char:EOLhyphen"/>ced both these feet. I will not sing unto thee of Judgement alone my God, nor yet of Mercy alone my God; but I will with the Prophet in the Text sing of Mercy and Judgement joyned together. Again,</p>
+            <p>Fourthly, I pray mark another reason of this Mercy and gentleness of our God; Let us mark I say, and fear also his Judgements; for as the Propher saith, That God is both sweet and just too: Dost thou love that he is sweet? then fear that he is just: For I pray mark the words of God, as a sweet Lord he said, <hi>I have held my peace at your sins of disobedience,</hi> Psal. 10.11, 12, 13. but as a just Lord he added in the 15. <hi>verse</hi> of that <hi>Psalm, And thinkest thou that I will hold my peace still? No, he will break the arm of the wicked and evil man.</hi> God is merciful, and full of mercies say you: It is most certain; yea, adde unto it that he beareth long, but fear that which cometh at the end of the <hi>Psalm, Et verax,</hi> he is just and true.</p>
+            <p>There be two things whereby disobedient sinners do stand in danger.</p>
+            <p>The one, hoping too much, which is presum<g ref="char:EOLhyphen"/>ption; the other in hoping too little, which is desperation.</p>
+            <p>Who are they that are deceived by hoping too much? He which saith unto himself, well, God is a good God, a merciful God, and therefore I
+<pb n="29" facs="tcp:208688:21"/>will do this or that, what best pleaseth my judge<g ref="char:EOLhyphen"/>ment; and why so? because God is a merciful God, a good God, a gentle God: This is most true; but these men run into danger, by hoping too much.</p>
+            <p>Now who are in danger by despair, even those who seeing their sins to be grievous, and think within themselves it is to be pardoned impossi<g ref="char:EOLhyphen"/>ble, saying within themselves, well we are once to be damned; why do not we whatsoever pleaseth us best? in this like evil communica<g ref="char:EOLhyphen"/>tion corrupts good manners, <hi>Come let us eat and drink, for to morrow we shall die,</hi> Isa. 21.13. 1 Cor. 15.32, 33. these men are murdered by desperation, and the other by hoping too much; what therefore doth God for gaining of both these sorts of people unto himself again. To him which is in danger by hoping too much, he saith, Do not say within thy self the mercy of God is great, he will be merciful unto the multi<g ref="char:EOLhyphen"/>tude of my sins; but I must be revenged for such or such wrongs: I must tell you, <hi>That the face of the Lord is against such sinners,</hi> Eccles. 5.6. <hi>For if you do not forgive, neither will your Father which is in Heaven forgive your trespasses,</hi> Mark 11.25, 26. And to him that is in dan<g ref="char:EOLhyphen"/>ger by desperation, God saith, <hi>I have no pleasure in the death of him that dieth, saith the Lord God: wherefore turn your selves and live,</hi> Ezek. 18.32. And much more may be spoken in the same place, touching the great peril and folly of those
+<pb n="30" facs="tcp:208688:22"/>which upon vain hope of Gods mercy without judgment, (<hi>although we are saved by hope,</hi> Rom. 8.14.) to persevere in their evil life of disobe<g ref="char:EOLhyphen"/>dience and hope of mercy without it. As there is mercy, so there is judgment too; and there<g ref="char:EOLhyphen"/>fore it is a very evil consequent, and a most un<g ref="char:EOLhyphen"/>just kind of reasoning, to say that for so much as God is merciful and long-suffering; and there<g ref="char:EOLhyphen"/>fore I will abuse his mercy, and continue in my wickedness: But the Scripture teacheth us not to reason so, but rather quite contrary; for God is merciful and expecteth my conversion. The longer he expecteth, the more grievous will be his punishment when it cometh, if we neglect this his patience; and therefore we ought pre<g ref="char:EOLhyphen"/>sently to accept of his mercy; so reasoneth Saint <hi>Paul,</hi> who saith, Dost thou contemn the riches of the long-suffering, and gentleness of the Lord? Dost thou not know that the patience of God to<g ref="char:EOLhyphen"/>wards thee, is used to bring thee to repentance? but thou through the hardness of thy heart and impenitency, dost heap up to thy self wrath a<g ref="char:EOLhyphen"/>gainst the day of vengeance, at the revelation of Gods just judgment, <hi>Rom.</hi> 2.5. 2 <hi>Thes.</hi> 1.7, 8, 9 in which words Saint <hi>Paul</hi> signifieth, that th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> longer God suffereth us with patience in ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wickedness, the greater heaps of vengeance doth he gather against us, if we persist in obsti<g ref="char:EOLhyphen"/>nacy and disobedience.</p>
+            <p>Fifthly, Another consideration of no le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great dread and fear is, That if he offer the
+<pb n="31" facs="tcp:208688:22"/>grace to day, thou knowest not whether he will do it to morrow; or as Saint <hi>James</hi> saith, <hi>Who knows whether we shall live while to morrow,</hi> James 4.14. And if he give us life and memo<g ref="char:EOLhyphen"/>ry this Week, we know not whether we shall enjoy it the next Week or no.
+<note place="margin">
+                  <hi>We must not curse the King, no not in our thoughts,</hi> Heb. 10.28. <hi>Nor think evil of any Su<g ref="char:EOLhyphen"/>periour,</hi> Job 34.18. Exod. 22.28. <hi>Nor of the Church,</hi> Act. 23.5. Num. 16.11.</note> So the holy Prophet saith in <hi>Psal.</hi> 66.5. <hi>God is terrible in his doings towards the children of men.</hi> And in verse 16. There the Lord calls upon all that fear God, and declareth what he hath done for our souls; but it is unto all such as are of a clean heart: For if we regard iniquity in our heart, the Lord will not hear our prayers, <hi>Psal.</hi> 66.18. wherein the holy Prophet sheweth the heavy justice of God towards the wicked, even when <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e giveth them prosperity, and worldly wealth unlawfully gotten. His words are these, <hi>Behold,</hi> O <hi>Lord, they shall perish which depart from thee, for God is terrible out of his Holy Place, even the God of Israel,</hi> Psal. 68.35. By which words the holy Prophet signifieth, That how good soever God be unto them that fear him, yet that per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aineth nothing to the relief of the disobedient, who are to receive just vengeance at his hands, midst the greatest mercies bestowed upon the obedient, <hi>even to eat the good things of the land;</hi>
+               <pb n="32" facs="tcp:208688:23"/>and to those that refuse and rebel, nothing but sword or other judgment; <hi>For the mouth of the Lord hath spoken it,</hi> Isa. 1.19, 20. <hi>But behold the eyes of the Lord is upon them that are just, and his ears are open to hear their prayers,</hi> Luke 1.56. and Psal. 145.9. and Gen. 18.17, 18, 19. <hi>But the face of the Lord is upon them that do evil to destroy them, and their memory from out of the earth,</hi> Psal. 34.16. For the Text is Mer<g ref="char:EOLhyphen"/>cy and Judgement too. It was the pra<g ref="char:EOLhyphen"/>ctise of the deceiving Prophers in all Ages, which have been resisted strongly by the Pro<g ref="char:EOLhyphen"/>phets of God) to cry, Peace, Peace: <hi>For, saith the Lord, they have healed also the hurt of the Daughters of my people sleightly, saying, Peace, Peace, when there was no peace.</hi> Jer. 6.14. And mark, I pray you, what the true Pro<g ref="char:EOLhyphen"/>phet saith in the 15. verse, <hi>Were they ashamed, when they had committed abomination; nay, they were not at all ashamed, neither could they blush; therefore they shall fall by judgement, among them that fall at the time that I will visit, saith the Lord God,</hi> Jer. 6. from the 15. to the end. So you see by the true Prophets, there was nothing to the obstinate but danger, sword, and destruction, as the true Prophets did fore<g ref="char:EOLhyphen"/>tel, and as the event proved after, as you may see <hi>Ezek.</hi> 13.1. to 12. 2 <hi>Kings</hi> 17.21. to the end, 2 <hi>Chron.</hi> 36.11. to the end, <hi>Jer.</hi> 3.10. Ho<g ref="char:EOLhyphen"/>ly <hi>David</hi> giveth a notable and sure rule to go<g ref="char:EOLhyphen"/>vern our hope and confidence withall, <hi>Do you sa<g ref="char:EOLhyphen"/>crifice
+<pb n="33" facs="tcp:208688:23"/>unto God even the sacrifice of righteousness, and trust in the Lord,</hi> Psal. 36.5. wherein Saint <hi>John</hi> agreeth, when he saith, <hi>That which we have seen, and heard, declare we unto you, that ye may have fellowship with us; and truly our fellowship is with the Father, and his Son Jesus Christ,</hi> 1 John 1, 2, 3. but if our Conscience be guilty of lewdness and disobedience, and resolve to continue therein, in vain have we confidence in the mercies of God, unto whose just judgement we stand subject for disobedience, for my Text is Mercy and Judgment too. So much for the fourth Part.</p>
+            <p>Now I come to the fifth Part of my Text, that is, for to shew how God hath used himself towards his best beloved Saints in this World, by offence given him, by occasion of sin of disobedience, how soon he hath broken friend<g ref="char:EOLhyphen"/>ship, how strictly he hath taken account, and how severely he hath punished the Angels that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e created with so great care and love, and to whom he imparted so singular priviledges of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll kind of perfections, as he made them al<g ref="char:EOLhyphen"/>most very Gods in a certain manner; onely <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e set his own dearly beloved Son Christ Jesus above them all, and commanded all the Angels <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o worship him, <hi>Heb.</hi> 1.5, 6. That was, they must <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ollow his direction; but they seeing themselves <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ade in such perfection of knowledge, were so <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fted up in pride, that they refused a Director, &amp;
+<pb n="34" facs="tcp:208688:24"/>would serve him after their own understanding, as too many people in our Nation do, who with<g ref="char:EOLhyphen"/>out repentance are wandring Stars; <hi>To whom i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> rescrved the blackness of darkness for ever,</hi> Jude 13<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as the Lord God did the Angels for that sin of disobedience: You see presently all good will and favour was changed into judgement in dark<g ref="char:EOLhyphen"/>ness of the great day, and to be chained for ever, to abide the rage of Hell fire, and intol<g ref="char:EOLhyphen"/>lerable judgement, without remembrance of mercy, among the damned; as you may see i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Isa.</hi> 14.14. 2 <hi>Pet</hi> 2.3, 4. <hi>Jude Ephes.</hi> 9.10, 11, 12, 13, 14.</p>
+            <p>Secondly, God made himself another new friend of flesh and blood; which was Father <hi>Adam</hi> in Paradise, where God conversed with him so friendly and familiarly, as is most won<g ref="char:EOLhyphen"/>derful to consider: He called him, he talked with him, he made all his Creatures in the world subject unto him, he brought them before him to the end that he, and not God, should give the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Names; he made a Mate and Companio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for him, he blessed them both, and finally, shew<g ref="char:EOLhyphen"/>ed all possible tokens of love that might be What ensued? <hi>Adam</hi> committed but one sin o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> disobedience, and that at the enticement of ano<g ref="char:EOLhyphen"/>ther, and that also a sin not of very great im<g ref="char:EOLhyphen"/>portance, as it may be seen to mans natural rea<g ref="char:EOLhyphen"/>son, <hi>which receiveth not the things of the Spiri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of God,</hi> 1 Cor. 2.14. but to a Spiritual mans un<g ref="char:EOLhyphen"/>derstanding, it was the greatest that was com<g ref="char:EOLhyphen"/>mitted
+<pb n="35" facs="tcp:208688:24"/>in all the earth, in the latitude and extent; for none ever made all the world guilty of sin, but he: It was for eating of the Tree of Know<g ref="char:EOLhyphen"/>ledge, forbidden. The matter was no sooner done, but all friendship was broken between God and them, and they were thrust out of Paradise, condemned to a world of misery, and all his seed to great judgment, together with himself, for hiding his sin, as <hi>Job</hi> saith, <hi>Job</hi> 31.34. yet he afterwards repented; and how severely this grievous sentence is executed, may sufficiently appear by this, <hi>that infinite millions, even almost the whole race of mankind,</hi> as the Prophet <hi>Isaiah</hi> saith, <hi>Chap.</hi> 1.9. The Lord reserved even a small remnant, even those few that since are ransom<g ref="char:EOLhyphen"/>ed by the coming down of Gods own Son, the second Person in the Trinity, into flesh, and by his intollerable sufferings, and in mercy to take the Government upon his shoulders, for his Name is called, <hi>Wonderful Counsellor, the Mighty God, Everlasting Father, the Prince of Peace;</hi> for of the increase of his Government and Peace there shall be no end, upon the Throne of <hi>David</hi> and his Kingdom, to order it, and to establish it with justice and judgement, <hi>from henceforth even for evermore; for the zeal of the Lord will perform this,</hi> Isa. 9.6, 7. And so if the Lord had not re<g ref="char:EOLhyphen"/>served unto himself a small remnant, <hi>we had been like unto</hi> Sodom, <hi>and like unto</hi> Gomorrah, <hi>Isa.</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.9. Thus you see God is Mercy and Judge<g ref="char:EOLhyphen"/>ment.</p>
+            <pb n="36" facs="tcp:208688:25"/>
+            <p> Thirdly, The two Miracles of the World, <hi>Moses</hi> and <hi>Aaron,</hi> were of singular authority and favour with God, insomuch as they could obtain great things at Gods hands for other men; as for <hi>Pharach</hi> and the <hi>Israelites, and the Lord did according to the word of</hi> Moses, <hi>Exod.</hi> 13.21, 31. and yet they offended God once them<g ref="char:EOLhyphen"/>selves, at the Waters of Contradiction, in the Desart of sin, <hi>Numb.</hi> 20.10, 11, 12. and hear the words of the Lord which he spake unto <hi>Moses</hi> and <hi>Aaron</hi> in the 12. <hi>verse, Because ye be<g ref="char:EOLhyphen"/>lieved me not, to sanctifie me in the eyes of the chil<g ref="char:EOLhyphen"/>dren of</hi> Israel, <hi>therefore ye shall not bring this Con<g ref="char:EOLhyphen"/>gregation into the Land which I have given them;</hi> and <hi>Aaron</hi> was stripped of his holy Garments; and died there in the top of the Mount (at the 28. <hi>verse</hi>) and <hi>Moses</hi> died in the Mount <hi>Nebo,</hi> in the Land of <hi>Moab,</hi> Deut. 32.49, 50, 51. for that they doubted somewhat of the miracle pro<g ref="char:EOLhyphen"/>mised to them from the Lord God, and thereby did dishonour his Divine Majesty, before the people, as you heard before: They were rebu<g ref="char:EOLhyphen"/>ked most sharply, as you heard in the Text, for the same; and though they repented heartily for that offence, and so by repentance obtained remission of the fault or guilt, so that their souls were saved, yet there was laid upon them a grievous chastisement for the same, and that was they should not enter themselves into the Land of Promise, but should die when they came into the sight thereof, the which must needs be a grea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="37" facs="tcp:208688:25"/>grief to them both; albeit, they intreated God most earnestly for the release of this penance, yet could they never obtain the same at his hands; but a ways the Lord answered them, Seeing ye have dishonoured me before the peo<g ref="char:EOLhyphen"/>ple, ye shall die for it, and shall not enter into the Land of Promise, <hi>Numb.</hi> 20.12. <hi>Deut.</hi> 32.50. And although Christ be the Saviour of the World, <hi>Yet he that is ashamed of me,</hi> saith he, <hi>before men, of him will I be ashamed of before my Father which is in Heaven,</hi> Luke 9.20. Luke 12.9. to preach his Word any where, openly in the World, <hi>John</hi> 10.20. and <hi>Acts</hi> 8.5.</p>
+            <p>Fourthly, In what special great favour was King <hi>Saul</hi> with God, when he chose him to be a King, and the first King of the people of God; and caused <hi>Samuel</hi> the Prophet so much to ho<g ref="char:EOLhyphen"/>nour him, and to anoint him Prince upon Gods own Inheritance, as he calleth it, 1 <hi>Sam.</hi> 10. when he commended him so much, and took such tender care over him: And the people so ho<g ref="char:EOLhyphen"/>noured him, and feared him so much, as is most wonderful for to consider the love of God, and the obedience of the people to their Prince, 1 <hi>Sam.</hi> 14. and yet afterward, for that he brake Gods Commandment in rescuing certain Spoils of War, which he should have destroyed, 1 <hi>Sam.</hi> 15.10. yea, though he reserved them to honour God withal, as he pretended, 1 <hi>Sam.</hi> 15. yet you may see his heart was not upright, as he pretend<g ref="char:EOLhyphen"/>ed;
+<pb n="38" facs="tcp:208688:26"/>yet he was cast off by the Lord God, and degraded of his Dignity, and given over into the hands of an evil Spirit, and brought to infi<g ref="char:EOLhyphen"/>nite miseries; though he shifted himself out for a time, yet he was finally so forsaken and abandoned by God, as he slew himself, his Sons were crucified or hanged on a Cross by his Ene<g ref="char:EOLhyphen"/>mies, 1 <hi>Sam.</hi> 31. and all his Family and Linage extinguished for ever, from having to do to reign over <hi>Israel</hi> any more, 2 <hi>Sam.</hi> 21, 6, 7, 8, 9. Thus you see that the sacrifice of the wicked is an abomination; how much more when he bring<g ref="char:EOLhyphen"/>eth it with a wicked mind? <hi>Prov.</hi> 21.27. and <hi>Isa.</hi> 11. <hi>Mich.</hi> 1.7. The Lord loveth him that doth justly, and loveth mercy, and to walk humbly with God, in <hi>Mich.</hi> 6.8. And, for as the Text is, Mercy and Judgement too. <hi>Happy is the man that feareth always; but he that hardneth his heart shall fall into mischief,</hi> Prov. 28.14. O what a boundless abundance in all Ages have fallen into mischief thorow a hard heart! As first, <hi>Cain</hi> having slain his righteous Brother <hi>Abel,</hi> and had committed such a horrible murder: Did <hi>Cains</hi> heart relent into obedience? No: Did he confess and say, I have sinned? No such mat<g ref="char:EOLhyphen"/>ter; but first, he answered God with a foul word, I cannot tell, or I know not where he is: He despised the Lord to his face; as if he should say, You may go look him, <hi>Am I my Brothers Keeper?</hi> Gen 4.9. I pray but mark this answer
+<pb n="39" facs="tcp:208688:26"/>of <hi>Cain,</hi> and his carriage therein, and you need no other example of disobedience; when nei<g ref="char:EOLhyphen"/>ther affection in Kindred could touch him, nor shame of the World check him, nor the blood of his slain Brother move him, nor the glorions presence of the Lord astonish him, nor the guilt of his own thoughts raise him, nor the quicken<g ref="char:EOLhyphen"/>ing Word of God, which is powerful to raise the very dead, none of these could move him into obedience and repentance, as <hi>David</hi> did, as you heard: And the Publican cried, <hi>Lord be mer<g ref="char:EOLhyphen"/>ciful to me a sinner,</hi> Luke 13.18. For although the godly suffer in this life, that they may cease from sin; yet the wicked will be punished with the second death, as <hi>Saul</hi> which persecuted <hi>David,</hi> and <hi>Achitophel</hi> hanged himself, for teach<g ref="char:EOLhyphen"/>ing <hi>Absalom</hi> to be a Rebel; and <hi>Judas</hi> that be<g ref="char:EOLhyphen"/>trayed his Master, hanged himself, <hi>and burst asun<g ref="char:EOLhyphen"/>der in the middle,</hi> Acts 1.18. and <hi>Antioch</hi> and <hi>Herod,</hi> for killing Saint <hi>James,</hi> Acts 12.2. <hi>was eaten of worms, and gave up the Ghost,</hi> at the 14. <hi>verse.</hi> God will not leave the wicked un<g ref="char:EOLhyphen"/>punished, as appeareth of <hi>Ahab</hi> and his seventy Sons, that <hi>Jehu</hi> slew for their tyranny upon the Children of God, and for their disobedience against God, 2 <hi>Kings.</hi> And <hi>Senacherib</hi> sent to re<g ref="char:EOLhyphen"/>proach the Living God, and the Angel of the Lord went forth in defence of <hi>Hezekiah</hi> King of <hi>Judah,</hi> and by his prayer to the Lord, smote in the Camp of the <hi>Assyrians,</hi> an hundred four<g ref="char:EOLhyphen"/>score
+<pb n="40" facs="tcp:208688:27"/>and five thousand, all dead corpses, slain, and himself put to death by the hands of his Sons, <hi>Isa.</hi> 27.38. So let the Lord serve all the Enemies of our gracious King.</p>
+            <p>Fifthly, <hi>David</hi> was the chosen and Friend of God, and honoured with the Title of one that was according to Gods own heart, 1 <hi>Sam.</hi> 13.14. 1 <hi>Sam.</hi> 15.2. 2 <hi>Sam.</hi> 7, 8. but as soon as he had sinned, the Prophet <hi>Nathan</hi> was sent unto him, to denounce Gods heavy displeasure and punish<g ref="char:EOLhyphen"/>ment upon him: For although <hi>Nathan</hi> was the Lords Prophet, yet he was <hi>Davids</hi> Subject, and durst not come unto the King, but with all humi<g ref="char:EOLhyphen"/>lity, as holy <hi>Daniel, O King, live for ever:</hi> And he told the King of two men in one City, of one rich, and the other poor; and how the rich man had taken the poor mans Lamb, to save his own flock, 2 <hi>Sam.</hi> 1.2, 3, 4. When the King heard thereof, he was the more ready to give judge<g ref="char:EOLhyphen"/>ment saying, <hi>As the Lord liveth, the man that hath done this thing shal surely die, v.</hi> 5. Then had the Pro<g ref="char:EOLhyphen"/>phet an opportunity to strike him to the heart, with the Sentence of his own mouth, <hi>Thou art the man, thus and thus hast thou done.</hi> Notwith<g ref="char:EOLhyphen"/>standing that he sorrowed and humbled himself so much as he did, for the sin that he had done, as may appear by his fasting, prayers, weeping, wearing of sackcloth, and eating of ashes, his tears came so fast from him, <hi>Psal.</hi> 102.9. <hi>Psal.</hi> 42.2, 3. by which it is evident, that how great
+<pb n="41" facs="tcp:208688:27"/>Gods mercy is to them that fear him, so great is his judgement to them that offend him.</p>
+            <p>The Scriptures have infinite examples of this nature, as the rejecting of <hi>Cain, Gen.</hi> 4.8. and all his Seed, <hi>Gen.</hi> 7.22. and the pitiful drowing of the whole world, in the time of <hi>Noah,</hi> except eight persons, <hi>Gen.</hi> 8. and the dreadful consu<g ref="char:EOLhyphen"/>ming of <hi>Sodom</hi> and <hi>Gomorrah</hi> with fire, with the Cities about it, <hi>Gen.</hi> 10. and the saving of <hi>Lot;</hi> whose righteous soul was grieved at their sins, and hunted after as a prey to their ungodly rage, because he would have hindred them from Re<g ref="char:EOLhyphen"/>bellion, when all their Cities were consumed with fire from Heaven; and the sending down quick to Hell of <hi>Korah, Dathan,</hi> and <hi>Abiram,</hi> with the slaughter of two hundred and fifty Princes of their Adherents, and many thou<g ref="char:EOLhyphen"/>sands of the people besides, for Rebellion against <hi>Moses</hi> and <hi>Aaron,</hi> who was their King and Priest, <hi>Numb.</hi> 16.5. to the 38. <hi>verse.</hi> God saith that they destroyed their own souls, <hi>Numb.</hi> 16.38. And the sudden killing of <hi>Nadab</hi> and <hi>Abihu,</hi> Sons of <hi>Aaron,</hi> and chosen Priests, for once offering of other fire on the Altar, then was appointed them in Scripture, as <hi>Levit.</hi> 10.1. And the most terrible striking dead of <hi>Ananias</hi> and <hi>Saphira,</hi> for retaining some part of their own goods by deceit from the holy Apostles, the which they should not have done, <hi>Acts</hi> 5.1. to 10. with many more such examples as before
+<pb n="42" facs="tcp:208688:28"/>alledged. And the holy Scriptures do tell <hi>these things happened unto them for examples to us, upon whom the ends of the world are come, and they are written for our admonition,</hi> 1 Cor. 10.11. And who will not confess with <hi>Moses, That the Lord our God is a God of gods, a Lord of Lords, a great God, a mighty and a terrible God, which regardeth not per<g ref="char:EOLhyphen"/>sons, nor taketh rewards: He doth execute judgment for the Fatherless and the Widow, and loveth the Stranger,</hi> Deut. 10.17, 18. Heb. 13.2. And therefore it is a horrible thing to fall into the hand of the Living God, <hi>who is a consuming fire</hi> to all Rebels, <hi>Heb.</hi> 12.29. <hi>Numb.</hi> 16.15. And who will not say with holy <hi>David, I have feared and trembled at thy judgements?</hi> Psal. 120.1. For my Text is of Mercy and Judgement.</p>
+            <p>O beloved Christians, If God would not spare the destroying of a whole Tribe almost for one sin onely (the which is remarkable, which I shall by Gods assistance repeat out of the holy Scri<g ref="char:EOLhyphen"/>ptures, the which is expressed in a wonderful manner in the Tribe of <hi>Benjamin:</hi> Among al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Twelve Sons of <hi>Jacob, Benjamin</hi> was th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dearest to his Father, as appeareth in <hi>Gen.</hi> 42.34. and therefore also greatly respected o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God; and this Tribe was placed in the be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> part of all the Land of Promise, upon the Di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vision thereof, <hi>Josh.</hi> 18.11. having <hi>Jericho</hi> an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other of the best Cities within it; yet notwith<g ref="char:EOLhyphen"/>stanping for one onely sin committed by certai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="43" facs="tcp:208688:28"/>private men in the City, Sons of <hi>Belial,</hi> or Re<g ref="char:EOLhyphen"/>bels, as God calls them, <hi>Judg.</hi> 19.22. upon the Wife of a <hi>Levite,</hi> God punished the whole Tribe in this Order that the holy Scripture re<g ref="char:EOLhyphen"/>nounceth: He caused all the other Eleven Tribes to rise against them: And first they must come to the House of God in <hi>Shiloh,</hi> to ask Gods advice, and to follow his Direction in this War against their Brethren; and thence having by Gods appointment entred Battel twice with the Tribe of <hi>Benjamin,</hi> the third day God gave them so great a Victory, as they slew all the li<g ref="char:EOLhyphen"/>ving Creatures within the compass of that Tribe, except onely 600 men, that escaped into the de<g ref="char:EOLhyphen"/>sart; all the rest were slain, both Men, Women, and Children, and Infants, together with all the Beasts and Cattel, and all the Cities, Villages, and Houses burnt with fire, together with above threescore thousand valiant men, as ever drew the Sword, on both sides; and all this for dise<g ref="char:EOLhyphen"/>bedience in standing on the defence of one sin, committed onely at one time with one woman; all this you may see in <hi>Judg.</hi> 20. to the end.) What will the Lord do to those that assemble themselves by Troops in the Harlots houses on the Lords Day and Holy-days! Shall not the Lord be avenged on such a Nation as this? <hi>Jerem.</hi> 5.7, 8, 9. The Text is Mercy and Judgement; for all the whole Tribe of <hi>Benjamin</hi> were but 600 men that fled, and abode hid in the Rock <hi>Rimmon</hi> four Moneths in great misery, <hi>Judg.</hi>
+               <pb n="44" facs="tcp:208688:29"/>20.47. And thus you see my Text is Mercy and Judgement. And if God would not forgive one sin of Pride and Disobedience unto the Angels, nor the eating of the Tree of Knowledge for<g ref="char:EOLhyphen"/>bidden unto our Father <hi>Adam,</hi> without infinite punishments; and if the Lord would not for<g ref="char:EOLhyphen"/>give <hi>Esau,</hi> for selling his Birth-right, though af<g ref="char:EOLhyphen"/>terwards he sought it with tears, <hi>Heb.</hi> 12.17. And if he would not remit the punishment of one fault to <hi>Moses</hi> and <hi>Aaron,</hi> though they askt it with great instance; and if the Lord God would not pass over the cup of affliction from his own Son, though he asked it three times upon his knees, with his face on the ground, and pray<g ref="char:EOLhyphen"/>ed, saying, <hi>O my Father, if it be possible, let this Cup pass from me; nevertheless, not as I will, but as thou wilt,</hi> Matth. 26.39. to 44. What cause have any of us to induce our imaginations, that he will deal extraordinarily with us, and break the course of his Judgements for our sakes? nay, are any that are alive better then those whom I have already named? or have any men or women living <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore pilgrimage from God above them fore-named? O beloved Christians. Let us but consider the great and strange effects of Gods Judgements, which the Rebels did in our Lands of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> for the sins of her Prophets and the iniquities of her Priests: They have shed the blood of the just One in the midst of her; for they respected not the persons
+<pb n="45" facs="tcp:208688:29"/>of the Priests, and savoured not the persons of the Priests, nor the Elders, nor the Breath of our Nostrils; the Anointed of the Lord was taken in their Pits, of whom we said, <hi>Under his shadow we shall rejoyce,</hi> Lam. 4.13. to the end. Notwithstanding Gods mercy in bringing us peace under the protection of our gracious King <hi>Charles</hi> the Second, yet we never read of any that suffered so like a Saviour, as King <hi>Charles</hi> the First of blessed Memory: For after Christ was persecuted in the Manger, <hi>Mat.</hi> 2.16. Christ was rejected of his; for example, <hi>He came to his own, and his own received him not,</hi> John 1.11. Nay, so far were they from doing him good, that they denied the Holy and Just One, and desired a Murtherer to be granted to them, <hi>Acts</hi> 3.14. And this hath been our Kings Case; they have rejected him, even his own people, and have with open mouth cried out, <hi>We will not have this man to reign over us,</hi> John 19.14. They have preferred Murderers and Robbers before him, chusing ra<g ref="char:EOLhyphen"/>ther to live under the Iron Yoke of such, then under the gentle and easie Government of Mo<g ref="char:EOLhyphen"/>narchy.</p>
+            <p>Secondly, Christ complained that <hi>Foxes had holes, and the Birds of the Air had nests, but the Son of Man had not whereon to lay his head,</hi> Matt. 8.20. And hath not our King been so served by the crafty Foxes and ambitious Kites, which had seized on all his Houses, Shipping, that he
+<pb n="46" facs="tcp:208688:30"/>had not where to lay his Head, untill they cut it off, as on that doleful day of <hi>January</hi> 30.</p>
+            <p>Thirdly, Christ was tempted in his necessity to distrust God, to turn stones into bread for his present sustenance, <hi>Matt</hi> 4.3. and hath not our gracious King been so tempted for to seek for contrary means for the sustenance of his bo<g ref="char:EOLhyphen"/>dy, for to see who would shew him any good, <hi>Psal.</hi> 6.4.</p>
+            <p>Fourthly, Was not Christ accounted a De<g ref="char:EOLhyphen"/>ceiver of the people, and called a Fellow, <hi>and one that had a Devil?</hi> John. 8.48. and hath not our gracious King been so called? Indeed Christ and our King have had alike conditioned enemies, great pretenders to Religion, and in that regard of great repute among the people.</p>
+            <p>Fifthly, Christ was opposed by men of se<g ref="char:EOLhyphen"/>veral Sects; as by <hi>Scribes</hi> and <hi>Pharisees,</hi> and <hi>Sadduces,</hi> and <hi>Herod,</hi> and all his spiteful <hi>Jews</hi> was banded together against Christ, <hi>Acts</hi> 4.27. and all of them at odds enough among themselves; so hath our King been assau<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted by men of seve<g ref="char:EOLhyphen"/>ral opinions, <hi>Brownists, Anabaptists, Quakers, Fifth-Monarchy men,</hi> and the like, and <hi>Jews;</hi> Nay, Christs enemies hated and abused all that loved him, <hi>John</hi> 12.10, 11. For they consult how they might k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l <hi>Lazarus</hi> a so; because, by reason of him, many did believe on Jesus. Yea, most ur<g ref="char:EOLhyphen"/>gent were they with Christ, for to deliver his Di<g ref="char:EOLhyphen"/>sciples, to betray them into their hands; but
+<pb n="47" facs="tcp:208688:30"/>Christ knowing their malice, by no means would do it; for his desire was, his Followers might have their lives spared, saying unto them, <hi>I am he, if ye seek me, let these go their way,</hi> John 18.8. And so did our gracious King directly parallel Christ; for all his friends were hated for his sake, and all those that were instrumental of working of a good opinion towards him, were persecuted even unto death: And they would have had his Majesty to deliver up his Friends into their hands; the which our King, accord<g ref="char:EOLhyphen"/>ing to Christs example, by no means ought to do. And when they had him in so low a condi<g ref="char:EOLhyphen"/>tion, as to put him to death, he made Christs request, that his Friends might be spared: No, it would not be granted, it was Royal Blood, and Loyal Blood, and Christian Loyal Blood, which these bloody men thirsted after; and there<g ref="char:EOLhyphen"/>fore fulfilled was the Prophesie of the Prophet <hi>Zachary, Awake, O Sword, against my Shepherd, and against the man that is my fellow, saith the Lord of Hosts: Smite the Shepherd, and the Sheep shall be scattered, and I will turn mine hand up<g ref="char:EOLhyphen"/>on the little ones,</hi> Zech. 13.7. Matth. 23.31. For since the Reformation, in the Reign of <hi>Edward</hi> the Sixth, of blessed memory, the second year, both Kings, Queens, and Priests, and all Loyal People, have come out of great tribulation, and have washed their Robes, and made them white in the blood of the
+<pb n="48" facs="tcp:208688:31"/>Lamb, <hi>Rev.</hi> 2.9, 10, 11. for the Lord hath gi<g ref="char:EOLhyphen"/>ven salvation unto his King; and he hath deli<g ref="char:EOLhyphen"/>vered our gracious King <hi>Charles</hi> the Second from the Sword of strange Children, <hi>Psal.</hi> 144.10.11. which makes good the Text, of Mercy and Judgement; For the Lord saith, <hi>Misericor<g ref="char:EOLhyphen"/>diam &amp; veritatem diligit Dominus,</hi> God loveth Mercy and Truth; <hi>For mercy and truth have met together, and righteousness and peace have kissed each other,</hi> Psal. 85.10. As the Prophet <hi>Jeremiah</hi> saith, <hi>O L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd, correct me but with judgement, not in anger, lest we be consumed; and because his com<g ref="char:EOLhyphen"/>passions fail not,</hi> Jer. 10.24. <hi>And it is the Lords mercy, that we are not consumed,</hi> Lam. 3.22. and therefore let us repent, <hi>and our former wickedness shall be forgotten,</hi> Acts 3.19. for the Lord loves Mercy and Judgement together; that is, I will not presume of thy me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cy, nor will I fear thy judgements, nor will I despair of thy mercy, but love thy judgements; for the fear of Gods judgements is always to be joyned with our con<g ref="char:EOLhyphen"/>fidence in Gods mercy: <hi>For he loveth righteous<g ref="char:EOLhyphen"/>ness and judgement,</hi> Psal. 33.5. For with a Son<g ref="char:EOLhyphen"/>like fear he loveth his Saints, and his best Saints love gentle correction; <hi>for the Lord loveth whom he chastiseth,</hi> Heb. 12.7, 8, 9. And therefore for to draw to a conclusion, the Scripture descri<g ref="char:EOLhyphen"/>beth them which fear God, and they will keep his Commandments; <hi>for his Commandments are not grievous,</hi> 1 John 5.3. and the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efore God saith,
+<pb n="49" facs="tcp:208688:31"/>
+               <hi>My Son, fear thou the Lord, and the King, and meddle not with them that are given to change; for their calamity shall rise suddenly, and who knows the ruine of them both?</hi> Prov. 24.21, 22. Beloved, warning is here given to every one, as well High as Low, for to love the Lord and the King; to fear and reverence him in heart, and obey him indeed, and God in him. Honour and obey the King, the chief Ruler, as the Head, next under the Lord God, together with his under Offi<g ref="char:EOLhyphen"/>cers, and meddle not with them that are given to change: Be not in company with any that va<g ref="char:EOLhyphen"/>ry from the holy Laws of God, concerning Re<g ref="char:EOLhyphen"/>ligion; or the wholsome Laws of Princes, touch<g ref="char:EOLhyphen"/>ing Policy; or as seek to change them, to stir up Rebellion, or establish their own fancy.</p>
+            <p>Against this Divine Charge or Precept, two sorts of people offend, who will seem to be great observers thereof.</p>
+            <p>The first are they, who will pretend to give unto <hi>Caesar</hi> that which is <hi>Caesars,</hi> but give not un<g ref="char:EOLhyphen"/>to God that which is Gods: For although they pay tribute to the King, or observe some of his positive Laws, yet they break the Laws of God in teaching false Doctrines, as the holy Apostle calls it, <hi>The Doctrine of Devils, forbidding to marry,</hi> and the like, in 1 <hi>Tim.</hi> 4.1, 2, 3, 4.</p>
+            <p>And the second are they, who, concerning the Exercises of Religion, or Sanctification of the Lords Day, will pretend they give unto God,
+<pb n="50" facs="tcp:208688:32"/>the things that are Gods; but withal, they give not unto <hi>Caesar,</hi> that which is <hi>Caesars;</hi> for they refuse to pay duties to the King, and deny their Oath of Allegiance and Supremacy, 1 <hi>Pet.</hi> 2.13. Or they take up Arms against him, and will not be subject to his good Laws, but rather seek to change them.</p>
+            <p>But here is a Question may be demanded: <hi>What if the King command things contrary to the Laws of God?</hi>
+            </p>
+            <p>The Answer hereunto is, The rule of the ho<g ref="char:EOLhyphen"/>ly Apostle is to be put in practise, who teach, <hi>That it is better to obey God then man,</hi> Act. 4.29, 30. Albeit in these Cases every soul is so to obey God, as still he must be subject to the King, <hi>or any that are sent by him, for the punishment of evil doers, or for the praise of them that do well,</hi> 1 Pet. 2.13, 14. as the honouring the Kings Majesty, the reverencing of his Officers, and the not resist<g ref="char:EOLhyphen"/>ing of his Authority; the which if they do, <hi>They will receive damnation to themselves,</hi> Rom. 13.2. And there is great Cause not to meddle with Rebels, seeing such great judgement, without mercy from God or Man, be the end of it, al<g ref="char:EOLhyphen"/>though the Text be Mercy and Judgement. But if so be you will, dearly beloved Christians, remember the words of Saint <hi>Peter, Honour all Men, love the Brotherhood, fear God, honour the King,</hi> 1 Pet. 2.17. And he that hath this fear of, and honouring his King, will expell all sin;
+<pb n="51" facs="tcp:208688:32"/>he that hath this love of God and the King, he will neglect nothing that is good, <hi>but will do good unto all men,</hi> Gal. 6.10. and the Lord will pre<g ref="char:EOLhyphen"/>pare their hearts and souls, and sanctifie them, and fulfil all their desires; <hi>For he fulfils the de<g ref="char:EOLhyphen"/>sires of them that fear him,</hi> Psal. 145.19. Luke 1.50. And this is the true description of fearing the Lord and the King, <hi>Prov.</hi> 24.21. This is the description of that fear which is so much com<g ref="char:EOLhyphen"/>mended and commanded, in every part and par<g ref="char:EOLhyphen"/>cel of Gods holy Word; for it is the Fountain of Life, <hi>Prov.</hi> 14.27. He that hath this fear, the Scripture saith is happy, <hi>Happy is the man that feareth the Lord and the King,</hi> for God cal<g ref="char:EOLhyphen"/>leth him his Son, <hi>Prov.</hi> 24.21. for he placeth his mind upon all his Commandments, <hi>Psal.</hi> 1.12. Again, The man that feareth the Lord and the King, the Lord God hath prepared great mul<g ref="char:EOLhyphen"/>titudes of sweetness for them, <hi>Psal.</hi> 125.1. God hath purchased them an heavenly inhe<g ref="char:EOLhyphen"/>ritance, and is as mercifull to them, as a Fa<g ref="char:EOLhyphen"/>ther is to his own Children, <hi>Psal.</hi> 1.3, 10, 11, 12, 13. This fear had holy <hi>Job,</hi> when he said to God, <hi>I fear and am afraid of all my sor<g ref="char:EOLhyphen"/>rowes;</hi> For he yieldeth the reason thereof, <hi>Job</hi> 9.22. and the 28. and we shall all come together in judgement, in <hi>verse</hi> 30. 2 <hi>Cor.</hi> 5.10. This fear lacked the disobedient, of whom the Lord is known by the judgement which he executeth on the souls of them which he
+<pb n="52" facs="tcp:208688:33"/>casts into Hell for the sin of disobedience, <hi>Mat.</hi> 10.28, 29. 2 <hi>Pet.</hi> 2.4. for tush, say they, God will not take account of our doings. Beloved, It is a great wickedness and a great provoking o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gods anger against them every day, <hi>Psal.</hi> 7.11. for to take <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e half of Gods Nature from him, which is to make him merciful without Judge<g ref="char:EOLhyphen"/>ment, and for to live so, as though God will no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> take account of our Life; whereas he professet<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> most earnestly to the contrary, that he will hav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an account at the Day of Judgement for every idle word, <hi>Matth.</hi> 12.36. and then the wicked shall be turned into Hell, and all the Nations that forget God, <hi>Psal.</hi> 9.17. but the Lord hear<g ref="char:EOLhyphen"/>eth the desire of the humble, and will prepar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their heart and his ear to hear their prayers <hi>Psal.</hi> 10.17. and he will say unto them, <hi>Come y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> blessed of my Father, inherit the Kingome prepare<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for you from the foundation of the world,</hi> Mat 25.34 for the Text is <hi>Mercy</hi> and <hi>Judgement</hi> too. An<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thus have I passed over my five Circumstance<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>And it is to be noted, that as often as Master <hi>Rayner</hi> preached this Sermon in a Church, he caused this <hi>Psalm</hi> the Second Part, to be sung <hi>Memento Domini,</hi> 132.</p>
+            <q>
+               <lg>
+                  <l>The Lord to <hi>David</hi> swore in truth,</l>
+                  <l>And will not shrink from it:</l>
+                  <l>Saying, the fruit of thy body</l>
+                  <l>Upon thy seat shall sit.</l>
+                  <pb n="53" facs="tcp:208688:33"/>
+                  <l>And if thy Sons my Covenant keep,</l>
+                  <l>That I shall learn each one:</l>
+                  <l>Then shall thy Sons for ever sit</l>
+                  <l>Upon thy Princely Throne.</l>
+               </lg>
+               <lg>
+                  <l>The Lord himself hath chosen <hi>Sion,</hi>
+                  </l>
+                  <l>And loves therein to dwell:</l>
+                  <l>Saying, this is my Resting place,</l>
+                  <l>I love and like it well.</l>
+                  <l>And I will bless with great increase,</l>
+                  <l>Her victuals every where:</l>
+                  <l>And I will satisfie with bread,</l>
+                  <l>The needy that be there</l>
+               </lg>
+               <lg>
+                  <l>Yea, I will deck and clothe her Priests</l>
+                  <l>With my salvation:</l>
+                  <l>And all h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Saints shall sing for joy</l>
+                  <l>Of my Protection.</l>
+                  <l>There will I surely make the horn</l>
+                  <l>Of <hi>David</hi> for to bud:</l>
+                  <l>For there I have ordain'd for mine</l>
+                  <l>A lantern bright and good.</l>
+               </lg>
+               <lg>
+                  <l>As for his enemies, I will clothe</l>
+                  <l>With shame for evermore:</l>
+                  <l>But I will cause his Crown to shine</l>
+                  <l>More fresh then heretofore.</l>
+               </lg>
+            </q>
+            <closer>Amen, Amen.</closer>
+            <trailer>FINIS.</trailer>
+            <closer>Pro nobis, Quis?</closer>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:208688:34"/>
+            <head>A Prayer.</head>
+            <p>O Most holy and glorious Lord God, which out of thine infinite mercy and goodness, art pleased in the midst of thy Judgements, to shew mercy to thy poor people, in bringing home the Lords Anointed, King <hi>Charles</hi> the Second, Son of that blessed and glorious Martyr King <hi>Charles</hi> the First, to sit upon his Royal Fa<g ref="char:EOLhyphen"/>thers Throne; and hast, O Lord, there<g ref="char:EOLhyphen"/>with brought back again the Captivity of <hi>Sion,</hi> and in thy great goodness restored this our afflicted Church of <hi>Great Brittain</hi> and <hi>Ireland:</hi> We beseech thee merciful Father, to perfect this thy great and mar<g ref="char:EOLhyphen"/>vellous Deliveradce, hedge it about with thy continual Protection, with the Custo<g ref="char:EOLhyphen"/>dy of Angels, with the Patronage of Kings and Princes, with the hearts and hands of
+<pb facs="tcp:208688:34"/>Nobles, with the defence of the whole secular Arm, and with the affections of all good People: Ruinate all our remain<g ref="char:EOLhyphen"/>ing Divisions, reconcile our Differences, and change all our Spirits into a sweet Christian temper of Gentleness and Peace, that with one heart and voice we may serve and praise God in the Holy Church, through Jesus Christ our Lord and only Saviour, <hi>Amen.</hi> God save the King, and the Church of <hi>England,</hi> Amen.</p>
+            <pb facs="tcp:208688:35"/>
+            <p> The Names of several places, where Master <hi>Rayner,</hi> out of his humble duty and earnest af<g ref="char:EOLhyphen"/>fection to Monarchy, hath preached this Sermon, together with many more not named, in, and about this City of <hi>London.</hi>
+            </p>
+            <p>At <hi>Gravesend</hi> in <hi>Kent.</hi>
+            </p>
+            <p>At <hi>Croyden</hi> in <hi>Surrey.</hi>
+            </p>
+            <p>At <hi>Darking</hi> in <hi>Surrey.</hi>
+            </p>
+            <p>At <hi>Uxbridge</hi> in <hi>Middlesex.</hi>
+            </p>
+            <p>At <hi>Wendever</hi> in <hi>Buckinghamshire.</hi>
+            </p>
+            <p>At <hi>Rochester</hi> in <hi>Kent,</hi> and many other places in <hi>Kent,</hi> as the Ministers and Inhabitants can testifie.</p>
+            <p>
+               <hi>If I perish, I perish,</hi> Esth. 4.16. <hi>But I will fear God, and honour the King,</hi> 1 Pet. 2.</p>
+            <p>
+               <hi>An evil man seeketh only Rebellion; therefore a cruel Messenger shall be sent against him,</hi> Pro. 17.11.</p>
+            <p>
+               <hi>What I have now done, is there not a cause?</hi> 1 Sam. 17.29. <hi>To bring presents to the King,</hi> 1 Sam. 10.27.</p>
+            <p>Nam hilarem datorem diligit dominos, 2 <hi>Cor.</hi> 9.7.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:208688:35"/>
+            <head>The Elegie of a Obedience Unto the Oath of Allegi<g ref="char:EOLhyphen"/>ance.</head>
+            <lg>
+               <l>
+                  <hi>WHo is equal to the Wise man? Who but he</hi>
+               </l>
+               <l>
+                  <hi>Can judge of things? or what their natures be.</hi>
+               </l>
+               <l>
+                  <hi>Wisdom adorns the Cheek with lovely grace,</hi>
+               </l>
+               <l>
+                  <hi>And paints couragious boldness in the Face.</hi>
+               </l>
+               <l>
+                  <hi>Let me advise the Subjects heart to stand</hi>
+               </l>
+               <l>
+                  <hi>Devoted always to the Kings Command:</hi>
+               </l>
+               <l>
+                  <hi>For having sworn Allegiance to him, both</hi>
+               </l>
+               <l>
+                  <hi>Heaven and thy Conscience do attest thy Oath.</hi>
+               </l>
+               <l>
+                  <hi>Let not thy discontented haste incite</hi>
+               </l>
+               <l>
+                  <hi>A brute departure from his awfull Sight.</hi>
+               </l>
+               <l>
+                  <hi>If thou hast err'd, continue not in ill;</hi>
+               </l>
+               <l>
+                  <hi>For Princes Acts are guided by their Will.</hi>
+               </l>
+               <l>
+                  <hi>The Potent Majesty of a Princes Word</hi>
+               </l>
+               <l>
+                  <hi>Is backt and made Authentick by the Sword.</hi>
+               </l>
+               <l>
+                  <hi>What venturous Tongue dare question, or demand</hi>
+               </l>
+               <l>
+                  <hi>The least account from his Illustrious Hand;</hi>
+               </l>
+               <l>
+                  <hi>Whose Loyal Breasts observe the Laws of Kings,</hi>
+               </l>
+               <l>
+                  <hi>Shall never know the Grief Rebellion brings.</hi>
+               </l>
+               <pb facs="tcp:208688:36"/>
+               <l>
+                  <hi>The Wise mans heart knows Mercy and Judgment too,</hi>
+               </l>
+               <l>
+                  <hi>Not only when to speak, but what to do:</hi>
+               </l>
+               <l>
+                  <hi>For there's to every purpose among Wise men,</hi>
+               </l>
+               <l>
+                  <hi>A judgement how to do, a season when,</hi>
+               </l>
+               <l>
+                  <hi>Which if mistaken, or not understood,</hi>
+               </l>
+               <l>
+                  <hi>Brings so much misery upon flesh and blood.</hi>
+               </l>
+               <l>
+                  <hi>There was a little City poorly man'd,</hi>
+               </l>
+               <l>
+                  <hi>'Gainst which a Potent King brought up a Band</hi>
+               </l>
+               <l>
+                  <hi>of Martiall Strength; besieged it, and withall</hi>
+               </l>
+               <l>
+                  <hi>Built mighty Bulwarks 'gainst her slender Wall.</hi>
+               </l>
+               <l>
+                  <hi>In this half-conquered City there was found</hi>
+               </l>
+               <l>
+                  <hi>A poor Wise man, whose wisdom did confound</hi>
+               </l>
+               <l>
+                  <hi>Both them and all the works their strength could plant,</hi>
+               </l>
+               <l>
+                  <hi>Yet no Reward relieved this poor mans want.</hi>
+               </l>
+               <l>
+                  <hi>O blessed art thou, O Land, when as thy King.</hi>
+               </l>
+               <l>
+                  <hi>Derives his Royal Blood from the Ancient Spring.</hi>
+               </l>
+               <l>
+                  <hi>Of Royal Majesty, and rules his Subjects</hi>
+               </l>
+               <l>
+                  <hi>By Mercy and Judgement both,</hi>
+               </l>
+               <l>
+                  <hi>And sendeth Rebels to the Yoke or Ro</hi>—</l>
+               <l>
+                  <hi>Curse not the King, nor them that bear the Sword;</hi>
+               </l>
+               <l>
+                  <hi>No, not in thought, though thought express no word:</hi>
+               </l>
+               <l>
+                  <hi>The Fowls of Heaven shall vent such hideous things,</hi>
+               </l>
+               <l>
+                  <hi>And Swift Report shall flie with Secret Wings.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:208688:36"/>
+         </div>
+      </body>
+   </text>
+</TEI>
